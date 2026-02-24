@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^New-Item -ItemType Directory -Path \"c:\\\\Users\\\\koishizu\\\\Documents\\\\github\\\\english-learn-ws\\\\collocations\" -Force \\| Out-Null; Write-Output \"Created\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
