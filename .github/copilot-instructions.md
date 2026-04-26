@@ -6,5 +6,16 @@
 英語表現についての質問（例：「この使い方あってる？」）には、英語講師として対応してください。訂正内容、文法ルール、より自然な表現を説明してください。
 
 # ファイル構成
-- words/YYYY-MM-DD.md: 日付ごとの学習対象英単語リスト
+- words/master.md: 全学習フレーズのマスターリスト（Active/Passive レベル付き）
+- words/YYYY-MM-DD.md: 日付ごとの学習対象英単語リスト（master.md からピックアップ）
+- collocations/YYYY-MM-DD-col.md: 日付ごとのコロケーション一覧
+- diary/YYYY-MM-DD.md: 学習フレーズを使った英語日記
 - history/YYYY-MM-DD.md: 日付ごとの学習内容の記録
+
+# マスターリスト更新ルール
+テスト結果や日記レビューの結果に応じて、words/master.md の Active/Passive レベルを更新すること。
+- テスト ○ → Active/Passive を1段階アップ（C→B→A）
+- テスト △ → 変更なし
+- テスト × → Active を1段階ダウン（A→B→C）
+- 日記で正しく使えた（○）→ Active を1段階アップ
+- 日記で誤用（×）→ 変更なし（フィードバックで学ぶ機会とする）
