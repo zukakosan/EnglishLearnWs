@@ -10,7 +10,7 @@
 - words/YYYY-MM-DD.md: 日付ごとの学習対象英単語リスト（master.md からピックアップ）
 - collocations/YYYY-MM-DD-col.md: 日付ごとのコロケーション一覧
 - diary/YYYY-MM-DD.md: 学習フレーズを使った英語日記
-- history/YYYY-MM-DD.md: 日付ごとの学習内容の記録
+- log/YYYY-MM-DD.md: 日付ごとの学習ログ（テスト結果・日記レビュー結果を記録）
 
 # マスターリスト更新ルール
 テスト結果や日記レビューの結果に応じて、words/master.md の Active/Passive レベルを更新すること。
