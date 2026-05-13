@@ -15,9 +15,9 @@
 |---|---------|------|--------|---------|---------|:-------:|:----:|------|
 | 1 | nitty gritty | 核心・本質 | - | - | 2026-05-06 | 3 | 1 | ≈ the heart of the matter / the essentials |
 | 2 | cliche | 決まり文句・ありきたり | - | - | 2026-05-04 | 2 | 2 | ≈ stereotype / overused phrase |
-| 3 | dig into sth | ～を深く掘り下げる・本気で取り組む | C | C | 2026-05-03 | 1 | 0 | ≈ delve into / get stuck into |
-| 4 | still manage to do | それでも何とか～する | C | C | 2026-05-04 | 1 | 0 | ≈ somehow do / pull off doing |
-| 5 | my bad | ごめん・私のせい | C | C | 2026-05-03 | 1 | 0 | ≈ my fault / sorry about that |
+| 3 | dig into sth | ～を深く掘り下げる・本気で取り組む | C | B | 2026-05-12 | 3 | 1 | ≈ delve into / get stuck into |
+| 4 | still manage to do | それでも何とか～する | A | A | 2026-05-12 | 3 | 0 | ≈ somehow do / pull off doing |
+| 5 | my bad | ごめん・私のせい | A | A | 2026-05-12 | 3 | 0 | ≈ my fault / sorry about that |
 | 6 | judge sb | ～を決めつける・批判する | - | - | 2026-05-04 | 1 | 1 | ≈ criticize sb / form an opinion of sb |
 | 7 | open up | 心を開く・打ち明ける | C | C | 2026-05-06 | 3 | 0 | ≈ confide / let one's guard down |
 | 8 | good/best way forward | 最良の進め方 | - | - | 2026-05-06 | 3 | 3 | ≈ best path / right approach |
@@ -81,12 +81,12 @@
 | 66 | stand out | 目立つ・際立つ | - | - | 2026-05-04 | 2 | 1 | ≈ stick out / catch the eye |
 | 67 | keep sth/sb around | ～をそばに置いておく | - | - | 2026-05-04 | 1 | 0 | ≈ hold onto / keep close |
 | 68 | straightforward | 単純な・わかりやすい | - | - | 2026-05-04 | 2 | 0 | ≈ simple / clear-cut |
-| 69 | make the most of sth | ～を最大限活用する | C | C | 2026-05-04 | 1 | 0 | ≈ get the most out of / take full advantage of |
+| 69 | make the most of sth | ～を最大限活用する | B | C | 2026-05-13 | 1 | 0 | ≈ get the most out of / take full advantage of |
 | 70 | take sb's side | ～の味方をする | - | - | 2026-05-04 | 1 | 1 | ≈ side with sb / back sb up |
 | 71 | beside the point | 論点からずれている | - | - | 2026-05-04 | 2 | 2 | ≈ irrelevant / off topic |
 | 72 | what's the point of sth | ～する意味あるの？ | - | - | 2026-05-04 | 1 | 1 | ≈ why bother / what's the use of |
 | 73 | nosy | 詮索好きな・おせっかいな | C | C | 2026-05-05 | 3 | 2 | ≈ prying / snoopy |
-| 74 | take sb's mind off sth | ～から気を紛らわせる | A | A | 2026-05-08 | 8 | 5 | ≈ distract sb from / get sb's mind off |
+| 74 | take sb's mind off sth | ～から気を紛らわせる | B | A | 2026-05-13 | 10 | 7 | ≈ distract sb from / get sb's mind off |
 | 75 | pick sth out | ～を選ぶ | - | - | 2026-05-06 | 2 | 1 | ≈ choose / select |
 | 76 | sth person | ～が好きな人・タイプ | C | C | 2026-05-03 | 1 | 0 | ≈ a fan of sth / into sth |
 | 77 | last-minute | 直前の・ぎりぎりの | - | - | 2026-05-04 | 1 | 1 | ≈ eleventh-hour / down to the wire |
@@ -106,7 +106,7 @@
 | 91 | no wonder | 道理で・どうりで | C | - | 2026-05-03 | 1 | 1 | ≈ that explains it / makes sense |
 | 92 | good/bad turnout | 出席者が多い／少ない | - | - | 2026-05-06 | 2 | 1 | ≈ big/small crowd / high/low attendance |
 | 93 | face to face | 直接会って・面と向かって | C | C | 2026-05-04 | 1 | 0 | ≈ in person / one-on-one |
-| 94 | take a chance on sth/sb | ～に賭ける・思い切ってやる | C | C | 2026-05-08 | 8 | 6 | ≈ give it a shot / take a gamble on |
+| 94 | take a chance on sth/sb | ～に賭ける・思い切ってやる | B | C | 2026-05-12 | 10 | 8 | ≈ give it a shot / take a gamble on |
 | 95 | first thing | 真っ先に・一番に | - | - | 2026-05-04 | 2 | 1 | ≈ right away / before anything else |
 | 96 | clear sb's mind | ～の頭をすっきりさせる | - | - | 2026-05-04 | 1 | 1 | ≈ clear one's head / refresh one's mind |
 | 97 | leave sth/sb out | ～を除外する・仲間外れにする | - | - | 2026-05-04 | 1 | 1 | ≈ exclude / omit |
@@ -120,14 +120,14 @@
 | 105 | hush-hush | 内緒の・極秘の | - | - | 2026-05-08 | 2 | 1 | ≈ top-secret / on the down-low |
 | 106 | resonate with sb | ～の心に響く・共感を呼ぶ | C | C | 2026-05-05 | 1 | 0 | ≈ strike a chord with / connect with |
 | 107 | where were we | どこまで話したっけ | C | C | 2026-05-05 | 1 | 0 | ≈ where did we leave off / what were we saying |
-| 108 | bump sth up | ～を引き上げる・繰り上げる | - | - | 2026-05-10 | 5 | 5 | ≈ raise / move up |
+| 108 | bump sth up | ～を引き上げる・繰り上げる | - | - | 2026-05-12 | 8 | 8 | ≈ raise / move up |
 | 109 | crisp | パリッとした・歯切れのよい | C | C | 2026-05-05 | 1 | 0 | ≈ sharp / clear-cut |
-| 110 | defeat the purpose of sth | ～の意味をなくす・本末転倒 | - | - | 2026-05-10 | 5 | 5 | ≈ miss the point / be counterproductive |
-| 111 | throw sb off | ～を戸惑わせる・調子を狂わせる | - | - | 2026-05-10 | 4 | 4 | ≈ throw sb a curveball / put sb off |
+| 110 | defeat the purpose of sth | ～の意味をなくす・本末転倒 | B | B | 2026-05-12 | 7 | 5 | ≈ miss the point / be counterproductive |
+| 111 | throw sb off | ～を戸惑わせる・調子を狂わせる | C | - | 2026-05-12 | 7 | 6 | ≈ throw sb a curveball / put sb off |
 | 112 | there's a fine line between sth and sth | ～と～は紙一重 | - | - | 2026-05-05 | 1 | 1 | ≈ a thin line / a narrow margin |
 | 113 | a.k.a | 別名・通称 | - | - | 2026-05-05 | 1 | 0 | ≈ also known as / otherwise known as |
 | 114 | as is | そのままで・現状のまま | - | - | 2026-05-05 | 1 | 1 | ≈ in current condition / no changes |
-| 115 | have one's head in the clouds | 上の空・夢見がち | - | - | 2026-05-10 | 4 | 4 | ≈ daydreaming / spaced out |
+| 115 | have one's head in the clouds | 上の空・夢見がち | - | - | 2026-05-12 | 6 | 4 | ≈ daydreaming / spaced out |
 | 116 | bang for the buck | 金額に見合う価値・コスパ | - | - | 2026-05-05 | 1 | 0 | ≈ value for money / good deal |
 | 117 | corner sb | ～を追い詰める | C | C | 2026-05-05 | 1 | 0 | ≈ back sb into a corner / trap sb |
 | 118 | beat oneself up about sth | ～について自分を責める | - | - | 2026-05-08 | 2 | 1 | ≈ blame oneself / be hard on oneself |
@@ -143,7 +143,7 @@
 | 128 | human nature | 人間の本性 | C | C | 2026-05-06 | 1 | 0 | ≈ the way people are / human instinct |
 | 129 | signature | その人らしい・お決まりの | C | C | 2026-05-06 | 1 | 1 | ≈ trademark / characteristic |
 | 130 | chime in | 口を挿む・話に加わる | - | - | 2026-05-08 | 3 | 2 | ≈ butt in / join the conversation |
-| 131 | hype | 過剰な宣伝・盛り上がり | C | C | 2026-05-08 | 5 | 4 | ≈ buzz / fanfare |
+| 131 | hype | 過剰な宣伝・盛り上がり | B | B | 2026-05-12 | 7 | 5 | ≈ buzz / fanfare |
 | 132 | raise the standard | 基準を引き上げる | - | - | 2026-05-06 | 1 | 0 | ≈ set the bar higher / up the ante |
 | 133 | tops | せいぜい・最大で | C | C | 2026-05-05 | 1 | 0 | ≈ at most / max |
 | 134 | listen up | 聞いてくれ・注目 | C | C | 2026-05-08 | 3 | 2 | ≈ pay attention / hear me out |
@@ -152,7 +152,7 @@
 | 137 | block sth out | ～を遮断する・忘れようとする | - | - | 2026-05-06 | 1 | 1 | ≈ shut out / push out of one's mind |
 | 138 | show sb's age | 年齢が出る・歳がバレる | B | B | 2026-05-07 | 3 | 1 | ≈ give away sb's age / date sb |
 | 139 | sore loser | 負けっぷりが悪い人 | C | C | 2026-05-07 | 3 | 2 | ≈ bad sport / poor loser |
-| 140 | fire away | どんどん聞いて・遠慮なく言って | C | C | 2026-05-08 | 5 | 4 | ≈ go ahead / shoot |
+| 140 | fire away | どんどん聞いて・遠慮なく言って | A | A | 2026-05-12 | 7 | 4 | ≈ go ahead / shoot |
 | 141 | hooked on sth | ～にハマっている | C | C | 2026-05-05 | 1 | 0 | ≈ addicted to / into sth |
 | 142 | part of the plan | 計画通り | - | - | 2026-05-06 | 1 | 1 | ≈ as planned / by design |
 | 143 | call sth off | ～を中止する | - | - | 2026-05-06 | 1 | 0 | ≈ cancel / scrap |
@@ -164,7 +164,7 @@
 | 149 | clickbait | クリック稼ぎの釣り見出し | C | C | 2026-05-06 | 1 | 0 | ≈ bait headline / linkbait |
 | 150 | airhead | うっかり者・抜けてる人 | C | C | 2026-05-05 | 1 | 0 | ≈ scatterbrain / ditz |
 | 151 | in the middle of nowhere | とんでもない辺鄙な場所 | - | - | 2026-05-06 | 1 | 1 | ≈ off the beaten path / out in the sticks |
-| 152 | day in, day out | 来る日も来る日も | - | - | 2026-05-06 | 1 | 0 | ≈ day after day / every single day |
+| 152 | day in, day out | 来る日も来る日も | - | - | 2026-05-12 | 1 | 0 | ≈ day after day / every single day |
 | 153 | close call | 危機一髪・きわどい状況 | - | - | 2026-05-05 | 1 | 1 | ≈ near miss / narrow escape |
 | 154 | overkill | やりすぎ・過剰 | - | - | 2026-05-06 | 1 | 1 | ≈ too much / excessive |
 | 155 | hiccup | ちょっとした問題・つまずき | - | - | 2026-05-06 | 2 | 0 | ≈ minor setback / glitch |
@@ -238,7 +238,7 @@
 | 223 | die down | 静まる・収まる | - | - | 2026-05-07 | 1 | 1 | ≈ subside / fade away |
 | 224 | triggered | 感情を刺激された・トラウマを呼び起こされた | - | - | 2026-05-08 | 1 | 1 | ≈ set off / emotionally activated |
 | 225 | be on one's best behavior | 行儀よく振る舞う | - | - | 2026-05-08 | 2 | 1 | ≈ behave oneself / mind one's manners |
-| 226 | know the drill | 手順を知っている・慣れている | - | - | 2026-05-10 | 5 | 5 | ≈ know the routine / know the ropes |
+| 226 | know the drill | 手順を知っている・慣れている | B | B | 2026-05-12 | 7 | 5 | ≈ know the routine / know the ropes |
 | 227 | have got sth/sb covered | ～は任せておけ・大丈夫 | - | - | 2026-05-08 | 1 | 1 | ≈ have it handled / take care of |
 | 228 | go back a few years | (人と)古い付き合いだ | - | - | 2026-05-07 | 1 | 1 | ≈ go way back / known each other for years |
 | 229 | open book | 隠し事のない人・分かりやすい人 | - | - | 2026-05-07 | 1 | 1 | ≈ transparent person / easy to read |
@@ -248,7 +248,7 @@
 | 233 | arena | 分野・領域 | C | C | 2026-05-07 | 1 | 0 | ≈ field / domain |
 | 234 | get that a lot | よく言われる | - | - | 2026-05-07 | 1 | 1 | ≈ hear that often / get told that often |
 | 235 | in small doses | 少しずつなら・少量で | - | - | 2026-05-08 | 1 | 1 | ≈ in moderation / bit by bit |
-| 236 | have got a good thing going | 順調にいっている・いい感じだ | - | - | 2026-05-10 | 5 | 5 | ≈ things are working out / on a roll |
+| 236 | have got a good thing going | 順調にいっている・いい感じだ | C | - | 2026-05-12 | 8 | 7 | ≈ things are working out / on a roll |
 | 237 | that's a different story | それは話が別だ | - | - | 2026-05-08 | 1 | 1 | ≈ that's another matter / different case |
 | 238 | cross sb's mind | ～の頭をよぎる | - | - | 2026-05-08 | 2 | 1 | ≈ occur to sb / come to mind |
 | 239 | need a bit of work | 少し改善が必要 | - | - | 2026-05-09 | 1 | 0 | ≈ needs improvement / could use work |
@@ -274,7 +274,7 @@
 | 259 | call dibs on sth | ～の権利を主張する・先取りする | - | - | 2026-05-07 | 1 | 1 | ≈ claim sth / bag sth |
 | 260 | second-guess sth/sb | 後から疑う・批判する | - | - | 2026-05-08 | 3 | 2 | ≈ doubt in hindsight / question after the fact |
 | 261 | in sb's eyes | ～の目には・～から見れば | - | - | 2026-05-09 | 1 | 0 | ≈ from sb's perspective / in sb's view |
-| 262 | the icing on the cake | さらに良いこと・最高の付加要素 | C | - | 2026-05-10 | 5 | 5 | ≈ cherry on top / added bonus |
+| 262 | the icing on the cake | さらに良いこと・最高の付加要素 | B | C | 2026-05-12 | 7 | 6 | ≈ cherry on top / added bonus |
 | 263 | bend over backwards | 必死に努力する | - | - | 2026-05-08 | 1 | 1 | ≈ go to great lengths / go out of one's way |
 | 264 | you do you | 好きにしていいよ | - | - | 2026-05-07 | 1 | 1 | ≈ do your thing / suit yourself |
 | 265 | keep one's eyes peeled | 目を光らせる・見張る | - | - | 2026-05-07 | 1 | 0 | ≈ keep an eye out / be on the lookout |
@@ -282,7 +282,7 @@
 | 267 | be on the tip of sb's tongue | 喉まで出かかっている | - | - | 2026-05-08 | 1 | 1 | ≈ almost remember / right on the verge |
 | 268 | catch oneself doing | ふと自分が～しているのに気づく | C | C | 2026-05-08 | 2 | 1 | ≈ realize one is doing / notice oneself |
 | 269 | sink to sb's level | ～と同レベルに堕ちる | C | C | 2026-05-09 | 1 | 0 | ≈ stoop to sb's level / lower oneself |
-| 270 | blow sb away | ～を圧倒する・感動させる | - | - | 2026-05-10 | 5 | 5 | ≈ amaze sb / wow sb |
+| 270 | blow sb away | ～を圧倒する・感動させる | B | B | 2026-05-12 | 7 | 5 | ≈ amaze sb / wow sb |
 | 271 | politically correct | 政治的に正しい・差別的でない | - | - | 2026-05-09 | 1 | 0 | ≈ PC / inoffensive |
 | 272 | straight | 率直な・正直な/異性愛者の | - | - | 2026-05-09 | 1 | 0 | ≈ honest / heterosexual |
 | 273 | good thing sth/sb does | ～してくれて良かった | - | - | 2026-05-09 | 1 | 1 | ≈ lucky that / it's a good thing |
@@ -306,7 +306,7 @@
 | 291 | hit the reset button | リセットする・仕切り直す | - | - | 2026-05-09 | 1 | 1 | ≈ start over / hit reset |
 | 292 | there's nothing like sth | ～に勝るものはない | C | - | 2026-05-08 | 3 | 2 | ≈ nothing beats / nothing compares to |
 | 293 | tear-jerker | お涙頂戴もの・泣ける作品 | - | - | 2026-05-07 | 1 | 1 | ≈ sob story / weepie |
-| 294 | to put it mildly | 控えめに言っても | - | - | 2026-05-10 | 5 | 5 | ≈ to say the least / putting it mildly |
+| 294 | to put it mildly | 控えめに言っても | A | B | 2026-05-13 | 7 | 5 | ≈ to say the least / putting it mildly |
 | 295 | put sb on a pedestal | ～を理想化して崇拝する | C | C | 2026-05-08 | 2 | 1 | ≈ idolize sb / idealize sb |
 | 296 | not cut out to do | ～に向いていない | - | - | 2026-05-09 | 1 | 1 | ≈ not suited for / not meant to |
 | 297 | lone wolf | 一匹狼・単独行動派 | C | C | 2026-05-07 | 1 | 0 | ≈ loner / solo operator |
@@ -331,7 +331,7 @@
 | 316 | as the saying goes | ことわざにあるように | - | - | 2026-05-09 | 1 | 1 | ≈ as they say / like the saying |
 | 317 | a broken clock is right twice a day | 壊れた時計でも一日二回は合う・たまには正しい | - | - | 2026-05-09 | 1 | 0 | ≈ even fools are sometimes right |
 | 318 | would be late for one's own funeral | いつも遅刻する人 | C | C | 2026-05-09 | 1 | 0 | ≈ always late / chronically tardy |
-| 319 | something else | 格別だ・とんでもない | - | - | 2026-05-09 | 2 | 2 | ≈ amazing / extraordinary |
+| 319 | something else | 格別だ・とんでもない | - | - | 2026-05-12 | 5 | 4 | ≈ amazing / extraordinary |
 | 320 | bring home the bacon | 生計を立てる・稼ぐ | - | - | 2026-05-09 | 1 | 0 | ≈ earn a living / be the breadwinner |
 | 321 | pull up a chair | 椅子を引いて座る・参加する | - | - | 2026-05-09 | 1 | 1 | ≈ join in / take a seat |
 | 322 | either-or | 二者択一の | - | - | 2026-05-09 | 1 | 1 | ≈ binary choice / black-and-white |
@@ -352,7 +352,7 @@
 | 337 | like a deer in the headlights | 固まって動けない様子 | - | - | 2026-05-09 | 1 | 0 | ≈ frozen with shock / stunned |
 | 338 | building block | 構成要素・基礎 | - | - | 2026-05-09 | 1 | 1 | ≈ foundation / fundamental piece |
 | 339 | make an example of sb | ～を見せしめにする | - | - | 2026-05-09 | 1 | 1 | ≈ punish publicly / set as warning |
-| 340 | stand the test of time | 時の試練に耐える | - | - | 2026-05-09 | 2 | 2 | ≈ endure / last |
+| 340 | stand the test of time | 時の試練に耐える | - | - | 2026-05-12 | 5 | 4 | ≈ endure / last |
 | 341 | the more the merrier | 多ければ多いほど良い | - | - | 2026-05-08 | 1 | 0 | ≈ more is better |
 | 342 | witch hunt | 魔女狩り・不当な追及 | C | C | 2026-05-09 | 1 | 0 | ≈ persecution / unfair pursuit |
 | 343 | damaged goods | 傷物・問題のある人 | - | - | 2026-05-09 | 1 | 1 | ≈ flawed / tainted |
@@ -361,7 +361,7 @@
 | 346 | in the nick of time | 間一髪で・ぎりぎりで | - | - | 2026-05-08 | 1 | 0 | ≈ just in time / at the last second |
 | 347 | have a score to settle with sb | ～と決着をつけたい | - | - | 2026-05-09 | 1 | 1 | ≈ have a bone to pick / get even |
 | 348 | none the wiser | 何も知らないまま | - | - | 2026-05-09 | 1 | 1 | ≈ unaware / clueless |
-| 349 | in the same vein | 同じ流れで・同様に | - | - | 2026-05-10 | 2 | 2 | ≈ similarly / along those lines |
+| 349 | in the same vein | 同じ流れで・同様に | B | B | 2026-05-12 | 4 | 2 | ≈ similarly / along those lines |
 | 350 | in over one's head | 手に負えない状況にある | - | - | 2026-05-10 | 1 | 1 | ≈ out of one's depth / overwhelmed |
 | 351 | when it rains, it pours | 不運は重なる | - | - | 2026-05-08 | 1 | 1 | ≈ trouble comes in waves |
 | 352 | plot twist | 急展開・どんでん返し | - | - | 2026-05-08 | 1 | 1 | ≈ unexpected turn / surprise |
@@ -375,39 +375,39 @@
 | 360 | sell like hotcakes | 飛ぶように売れる | - | - | 2026-05-08 | 1 | 0 | ≈ fly off the shelves |
 | 361 | speak volumes | 雄弁に物語る | - | - | 2026-05-10 | 1 | 1 | ≈ say a lot / be very telling |
 | 362 | can't emphasize enough that | ～をいくら強調しても足りない | - | - | 2026-05-10 | 1 | 0 | ≈ cannot stress enough |
-| 363 | big no-no | 絶対にダメなこと | - | - | 2026-05-10 | 2 | 2 | ≈ major taboo / absolute don't |
+| 363 | big no-no | 絶対にダメなこと | C | C | 2026-05-12 | 4 | 2 | ≈ major taboo / absolute don't |
 | 364 | mean well | 悪気はない・善意でやる | - | - | 2026-05-10 | 1 | 1 | ≈ have good intentions |
-| 365 | hairy | やばい・危険な | - | - | 2026-05-09 | 2 | 2 | ≈ scary / dicey |
+| 365 | hairy | やばい・危険な | - | - | 2026-05-12 | 4 | 4 | ≈ scary / dicey |
 | 366 | do not have a leg to stand on | 根拠が全くない | - | - | 2026-05-08 | 1 | 0 | ≈ no case / no justification |
 | 367 | in a stalemate | 膠着状態で | - | - | 2026-05-10 | 1 | 1 | ≈ at a deadlock / impasse |
-| 368 | step on it | 急いで・スピード上げて | - | - | 未テスト | 0 | 0 | ≈ hurry up / floor it |
+| 368 | step on it | 急いで・スピード上げて | - | - | 2026-05-11 | 1 | 0 | ≈ hurry up / floor it |
 | 369 | ulterior motive | 下心・隠れた動機 | - | - | 2026-05-08 | 1 | 1 | ≈ hidden agenda |
 | 370 | bust | ガサ入れ・失敗 | - | - | 2026-05-10 | 1 | 1 | ≈ raid / flop |
 | 371 | snoop around sth/sb | こそこそ嗅ぎ回る | - | - | 2026-05-10 | 1 | 0 | ≈ pry / nose around |
-| 372 | in sb's mind's eye | 心の中で・想像の中で | - | - | 未テスト | 0 | 0 | ≈ in one's imagination |
-| 373 | patch sth up | ～を修復する・仲直りする | - | - | 未テスト | 0 | 0 | ≈ fix / reconcile |
+| 372 | in sb's mind's eye | 心の中で・想像の中で | - | - | 2026-05-11 | 1 | 0 | ≈ in one's imagination |
+| 373 | patch sth up | ～を修復する・仲直りする | - | - | 2026-05-11 | 1 | 0 | ≈ fix / reconcile |
 | 374 | ease sb's conscience | ～の良心の呵責を和らげる | - | - | 2026-05-10 | 1 | 1 | ≈ relieve guilt |
 | 375 | in this day and age | 今の時代に | - | - | 2026-05-09 | 1 | 0 | ≈ nowadays / these days |
 | 376 | head for the exit door | 出口に向かう・去る | - | - | 2026-05-08 | 2 | 1 | ≈ leave / make for the exit |
-| 377 | zero-sum game | ゼロサムゲーム | - | - | 未テスト | 0 | 0 | ≈ win-lose / no mutual gain |
+| 377 | zero-sum game | ゼロサムゲーム | C | C | 2026-05-11 | 1 | 0 | ≈ win-lose / no mutual gain |
 | 378 | old soul | 老成した人・大人びた人 | - | - | 2026-05-10 | 1 | 1 | ≈ wise beyond years |
 | 379 | highlight reel | 名場面集・見せ場 | C | C | 2026-05-08 | 2 | 1 | ≈ best moments / showcase |
 | 380 | cause a stir | 騒ぎを起こす | - | - | 2026-05-10 | 1 | 1 | ≈ create a buzz / stir up |
-| 381 | come out of the woodwork | 突然現れる・湧いて出る | - | - | 2026-05-10 | 5 | 5 | ≈ appear suddenly / pop up |
+| 381 | come out of the woodwork | 突然現れる・湧いて出る | - | - | 2026-05-12 | 7 | 5 | ≈ appear suddenly / pop up |
 | 382 | it takes two to tango | 二人いないと成り立たない | - | - | 2026-05-08 | 1 | 1 | ≈ both sides are responsible |
-| 383 | bang the drum | 大々的に主張する・宣伝する | - | - | 未テスト | 0 | 0 | ≈ promote loudly / advocate |
+| 383 | bang the drum | 大々的に主張する・宣伝する | - | - | 2026-05-11 | 1 | 1 | ≈ promote loudly / advocate |
 | 384 | hold court | 取り巻きの中心になる | - | - | 2026-05-10 | 1 | 1 | ≈ command attention / hold sway |
 | 385 | have seen better days | 昔は良かった・くたびれている | - | - | 2026-05-10 | 1 | 1 | ≈ past its prime / worn out |
-| 386 | tailor-made for sth/sb | ～にぴったりの・あつらえ向きの | - | - | 未テスト | 0 | 0 | ≈ perfect fit / custom-made |
-| 387 | come off second best | 二番手に終わる・負ける | - | - | 未テスト | 0 | 0 | ≈ lose / come out worse |
-| 388 | get in sb's way | ～の邪魔をする | - | - | 未テスト | 0 | 0 | ≈ obstruct / hinder |
+| 386 | tailor-made for sth/sb | ～にぴったりの・あつらえ向きの | C | C | 2026-05-11 | 1 | 0 | ≈ perfect fit / custom-made |
+| 387 | come off second best | 二番手に終わる・負ける | - | - | 2026-05-11 | 1 | 1 | ≈ lose / come out worse |
+| 388 | get in sb's way | ～の邪魔をする | - | - | 2026-05-11 | 1 | 1 | ≈ obstruct / hinder |
 | 389 | warts and all | 欠点も含めて全て | - | - | 2026-05-10 | 1 | 1 | ≈ flaws and all / as is |
 | 390 | throw caution to the wind | 大胆に行動する・慎重さを捨てる | - | - | 2026-05-09 | 1 | 1 | ≈ take a risk / go for it |
 | 391 | derail sth | ～を頓挫させる | - | - | 2026-05-10 | 1 | 1 | ≈ disrupt / throw off track |
-| 392 | run circles around sb | ～を圧倒する・はるかにしのぐ | - | - | 未テスト | 0 | 0 | ≈ outdo easily / outclass |
+| 392 | run circles around sb | ～を圧倒する・はるかにしのぐ | - | - | 2026-05-11 | 1 | 1 | ≈ outdo easily / outclass |
 | 393 | test the waters | 様子を見る・打診する | - | - | 2026-05-10 | 1 | 1 | ≈ feel out / try out |
-| 394 | have a field day with sth/sb | ～で大いに楽しむ・好き放題する | - | - | 未テスト | 0 | 0 | ≈ have a blast / go to town |
-| 395 | sb wasn't born yesterday | 子供じゃないんだ・騙されない | - | - | 未テスト | 0 | 0 | ≈ not naive / experienced |
+| 394 | have a field day with sth/sb | ～で大いに楽しむ・好き放題する | - | - | 2026-05-11 | 1 | 0 | ≈ have a blast / go to town |
+| 395 | sb wasn't born yesterday | 子供じゃないんだ・騙されない | C | C | 2026-05-11 | 1 | 0 | ≈ not naive / experienced |
 | 396 | sour grapes | 負け惜しみ | - | - | 2026-05-10 | 1 | 1 | ≈ resentment from losing |
 | 397 | high-maintenance | 手のかかる・気難しい | - | - | 2026-05-09 | 1 | 0 | ≈ demanding / needy |
 | 398 | out of sight, out of mind | 去る者は日々に疎し | - | - | 2026-05-10 | 1 | 1 | ≈ forgotten when absent |
