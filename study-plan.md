@@ -1,6 +1,6 @@
 # 直近の復習計画
 
-最終更新: 2026-05-15（S3 完了後）
+最終更新: 2026-05-16（S3 完了後）
 
 > このファイルは `.github/instructions/study-plan.instructions.md` のルールに従い、マスター/ログ更新時に自動で最新化される。次回の vocab-quiz エージェント起動時、Phase 1 の出題選択でこのファイルを優先参照する。
 
@@ -8,93 +8,81 @@
 
 ### ×5回以上（最重要・繰り返し不正解、当日テスト済みは除外）
 
-> 本日（5/15）S1+S2 で過去の ×5+ 該当全件をテスト済み。除外後の該当なし。
+> 5/16 S1 で D3 #110/#116/#265、D4 #108/#111/#236/#270/#381 をテスト済み。除外後の該当なし。
 
 ### 当日テスト済みだが ×5 以上（次回も最優先で復習）
 
 | #   | フレーズ                       | 意味                              | シリーズ      | 直近の状況                                                            |
 | --- | ------------------------------ | --------------------------------- | ------------- | --------------------------------------------------------------------- |
-| 108 | bump sth up                    | 引き上げる・繰り上げる            | distinction4  | 5/15 △（×8 累計、スペルミス `banp`→bump）                            |
-| 111 | throw sb off                   | 戸惑わせる                        | distinction4  | 5/15 ×（×8 累計、`blow sb off` と混同）                              |
-| 110 | make the cut                   | 基準に達する                      | distinction3  | 5/15 ×（×6 累計、6連続×、Active C）                                  |
-| 116 | lost cause                     | 見込みのないこと                  | distinction3  | 5/15 ×（×6 累計、**2日連続**で `no luck` と混同、B→C 降格）          |
-| 265 | mix and match                  | 自由に組み合わせる                | distinction3  | 5/15 ×（×5 累計、5連続×、未評価のまま）                              |
-| 381 | come out of the woodwork       | 突然現れる・湧いて出る            | distinction4  | 5/15 △（×5 累計、`out` 抜け）                                        |
-| 236 | have got a good thing going    | 順調にいっている                  | distinction4  | 5/15 △（×7 累計、`got` 抜け）                                        |
-| 270 | blow sb away                   | 圧倒する・感動させる              | distinction4  | 5/15 ○（×6 累計、C→B、Passive B→A）                                  |
+| 116 | lost cause                     | 見込みのないこと                  | distinction3  | 5/16 ×（×7 累計、7連続×、Active C 停滞、`curve sth` と無関係回答）  |
+| 110 | make the cut                   | 基準に達する                      | distinction3  | 5/16 ○（×6 累計、C→B、6連続×を断ち切る）                            |
+| 265 | mix and match                  | 自由に組み合わせる                | distinction3  | 5/16 ○（×5 累計、-→C、5連続×を断ち切る）                            |
+| 108 | bump sth up                    | 引き上げる・繰り上げる            | distinction4  | 5/16 ○（×8 累計、C→B、Passive C→B）                                  |
+| 111 | throw sb off                   | 戸惑わせる                        | distinction4  | 5/16 ○（×8 累計、C→B、Passive -→C、`blow sb off` 混同を脱却）       |
+| 236 | have got a good thing going    | 順調にいっている                  | distinction4  | 5/16 ○（×7 累計、B→A、Passive -→C）                                  |
+| 270 | blow sb away                   | 圧倒する・感動させる              | distinction4  | 5/16 ○（×6 累計、B→A）                                                |
+| 381 | come out of the woodwork       | 突然現れる・湧いて出る            | distinction4  | 5/16 ○（×5 累計、C→B、Passive C→B）                                  |
 
-### ×4回（継続要注意、当日テスト済みは除外）
+### ×3回（継続要注意）
 
-> S2 で ×4 該当もほぼテスト済み。除外後の該当なし（昨日の #148 put one's mind to sth は S2 でテスト済み）。
+| #   | フレーズ                            | 意味                                | シリーズ      | 直近の状況                                              |
+| --- | ----------------------------------- | ----------------------------------- | ------------- | ------------------------------------------------------- |
+| 146 | feed into sth                       | ～を助長する・流れ込む              | distinction3  | 5/16 ×（×4 累計、4連続×、未評価のまま）                |
+| 163 | live for sth/sb                     | ～が生きがい                        | distinction3  | 5/16 ×（×3 累計、3連続×、未評価のまま）                |
+| 176 | run sth by sb                       | ～に確認してもらう                  | distinction3  | 5/16 ×（×3 累計、3連続×、未評価のまま）                |
+| 198 | can't put one's finger on sth       | はっきり言えないけど何か…           | distinction3  | 5/16 ×（×3 累計、3連続×、未評価のまま）                |
+| 305 | sweep sth under the carpet          | ～を隠す・もみ消す                  | distinction3  | 5/16 ×（×3 累計、3連続×、未評価のまま）                |
+| 313 | rein sth/sb in                      | ～を抑制する・制御する              | distinction3  | 5/16 ×（×3 累計、3連続×、未評価のまま）                |
+| 310 | weigh in                            | 意見を述べる・口を出す              | distinction3  | 5/16 ×（×3 累計、3連続×、未評価のまま）                |
+| 312 | different kettle of fish            | 全く別の話・別問題                  | distinction3  | 5/16 ×（×3 累計、3連続×、未評価のまま）                |
+| 319 | get back into the swing of things   | 調子を取り戻す                        | distinction3  | 5/16 ×（×3 累計、3連続×、未評価のまま）                |
+| 335 | dish it out                         | （批判などを）浴びせる              | distinction3  | 5/16 ×（×3 累計、3連続×、未評価のまま）                |
+| 338 | get one's foot in the door          | 足がかりを得る                        | distinction3  | 5/16 ×（×3 累計、3連続×、未評価のまま）                |
+| 358 | downplay sth                        | ～を控えめに言う・軽視する          | distinction3  | 5/16 ×（×3 累計、3連続×、未評価のまま）                |
 
-### S1+S2+S3（2026-05-15）で動きのあった注目フレーズ
+### 5/16 S1 で動きのあった注目フレーズ
 
-| #   | フレーズ                          | シリーズ     | 状況                                                                  |
-| --- | --------------------------------- | ------------ | --------------------------------------------------------------------- |
-| 14  | uncalled for                      | distinction3 | ○ で B→A、Passive も B→A【S1】                                        |
-| 8   | big day                           | distinction3 | ○ で B→A【S1】                                                        |
-| 227 | sb's hands are tied               | distinction3 | ○ で B→A、Passive も B→A【S1】                                        |
-| 270 | blow sb away                      | distinction4 | ○ で C→B、Passive B→A（昨日の `blow sb off` 混同を回避）【S2】       |
-| 365 | hairy                             | distinction4 | ○ で C→B（×5・5連続×を断ち切る）【S1】                                |
-| 115 | have one's head in the clouds     | distinction4 | ○ で C→B、Passive -→C【S2】                                           |
-| 362 | take a beating                    | distinction3 | ○ で C→B、Passive -→C（×4・4連続×を断ち切る）【S2】                  |
-| 318 | there's a method to sb's madness  | distinction3 | ○ で初回登録 -→C（累計×4 から脱却）【S2】                            |
-| 116 | lost cause                        | distinction3 | × で B→C 降格（**2日連続**で `no luck` と混同）【S2】                |
-| 309 | mixed messages, 22 just around the corner, 16 you can say that again, 38 at this stage | distinction3 | 4件とも初回登録 -→C |
-| 66  | hear from sb                      | distinction3 | ○ で初回登録 -→C【S3】                                                |
-| 77  | flirt with sb                     | distinction3 | ○ で初回登録 -→C【S3】                                                |
-| 87  | make sb cringe                    | distinction3 | ○ で初回登録 -→C（embarrass sb と同義回答）【S3】                    |
-| 114 | right-hand man                    | distinction3 | ○ で初回登録 -→C【S3】                                                |
-| 121 | actions speak louder than words   | distinction3 | ○ で初回登録 -→C【S3】                                                |
-| 142 | well-spoken                       | distinction3 | ○ で初回登録 -→C【S3】                                                |
-| 150 | too good to be true               | distinction3 | ○ で初回登録 -→C【S3】                                                |
-| 69  | I wouldn't worry about sth        | distinction3 | × で未評価のまま（×3、要注意）【S3】                                  |
-| 129 | be careful what you wish for      | distinction3 | × で未評価のまま（×3、要注意）【S3】                                  |
-| 146 | feed into sth                     | distinction3 | × で未評価のまま（×3、要注意）【S3】                                  |
+| #   | フレーズ                          | シリーズ     | 状況                                                                 |
+| --- | --------------------------------- | ------------ | -------------------------------------------------------------------- |
+| 270 | blow sb away                      | distinction4 | ○ で B→A 到達                                                        |
+| 236 | have got a good thing going       | distinction4 | ○ で B→A 到達                                                        |
+| 108 | bump sth up                       | distinction4 | ○ で C→B、Passive C→B（8連続×を断ち切る）                            |
+| 111 | throw sb off                      | distinction4 | ○ で C→B、Passive -→C（`blow sb off` 混同を脱却）                    |
+| 381 | come out of the woodwork          | distinction4 | ○ で C→B、Passive C→B                                                |
+| 110 | make the cut                      | distinction3 | ○ で C→B、Passive -→C（6連続×を断ち切る）                            |
+| 153 | blow sth/sb off                   | distinction3 | ○ で初回登録 -→C、Passive -→C                                        |
+| 265 | mix and match                     | distinction3 | ○ で初回登録 -→C、Passive -→C（5連続×を断ち切る）                    |
+| 115 | cross the line                    | distinction5 | ○ で初回登録 -→C、Passive -→C（D5 初登録）                           |
+| 116 | lost cause                        | distinction3 | × で C 停滞（7連続×、`curve sth` と無関係回答）                      |
 
 ## 2. 復習期限超過（忘却曲線、当日テスト済みは除外）
 
-> 基準日 2026-05-15。Active C=1日 / B=3日 / A=7日 の間隔を超過したもの。5/2 登録の未評価フレーズは S3 までで多数消化済み。残存分から代表20件を抜粋（×2 累計のもの優先）。
+> 基準日 2026-05-16。Active C=1日 / B=3日 / A=7日 の間隔を超過したもの。S2 で D3 5/2 登録分の代表 14 件をテスト済み（ただし大半が×で未評価のまま）。残りは下記。
 
 | #   | フレーズ                              | 意味                              | Active | 最終更新   | シリーズ     | 経過日数 | 超過 |
 | --- | ------------------------------------- | --------------------------------- | :----: | ---------- | ------------ | :------: | :--: |
-| 153 | blow sth/sb off                       | ～をすっぽかす・無視する          |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 163 | live for sth/sb                       | ～が生きがい                      |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 176 | run sth by sb                         | ～に確認してもらう                |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 198 | can't put one's finger on sth         | はっきり言えないけど何か…         |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 305 | sweep sth under the carpet            | ～を隠す・もみ消す                |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 310 | weigh in                              | 意見を述べる・口を出す            |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 312 | different kettle of fish              | 全く別の話・別問題                |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 313 | rein sth/sb in                        | ～を抑制する・制御する            |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 319 | get back into the swing of things     | 調子を取り戻す                    |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 323 | bring out the best in sb              | ～の最良の面を引き出す            |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 325 | how long is a piece of string         | 答えようがない・ケースバイケース  |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 327 | save sb's bacon                       | ～を窮地から救う                  |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 335 | dish it out                           | （批判などを）浴びせる            |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 338 | get one's foot in the door            | 足がかりを得る                    |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 343 | at loggerheads                        | 対立している                      |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 345 | beggars can't be choosers             | 贅沢は言えない                    |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 347 | have one's cake and eat it too        | 両方手に入れる・いいとこ取りする  |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 358 | downplay sth                          | ～を控えめに言う・軽視する        |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 361 | care factor zero                      | 全く興味なし                      |   -    | 2026-05-02 | distinction3 |    13    | +13  |
-| 383 | put one's foot in one's mouth         | 失言する                          |   -    | 2026-05-02 | distinction3 |    13    | +13  |
+| 325 | how long is a piece of string         | 答えようがない・ケースバイケース  |   -    | 2026-05-02 | distinction3 |    14    | +14  |
+| 327 | save sb's bacon                       | ～を窮地から救う                  |   -    | 2026-05-02 | distinction3 |    14    | +14  |
+| 347 | have one's cake and eat it too        | 両方手に入れる・いいとこ取りする  |   -    | 2026-05-02 | distinction3 |    14    | +14  |
+| 361 | care factor zero                      | 全く興味なし                      |   -    | 2026-05-02 | distinction3 |    14    | +14  |
 
-> 5/2-5/3 登録の未評価分はまだ約60件残存（distinction3 のみ）。Active C 超過分（5/3〜5/13 最終更新）も多数。
+> 上記以外にも D3 の 5/3-5/8 登録未評価フレーズが多数、D4 の 5/4-5/8 登録未評価フレーズが約 230 件残存。次回は要注意フレーズ（×3以上）の収束と D4 未評価処理を優先する。
 
 ## 3. 未評価フレーズ（参考件数）
 
-- distinction3: 約80件（S3 で20件消化、残り 5/2〜5/3 登録分の未テスト多数）
-- distinction4: 約235件（5/4〜5/8 登録分の未テスト多数）
-- distinction5: 約75件
+- distinction3: 約 70 件（S2 で 13 件テスト済みだが、初回 →C 登録できたのは #69, #129 の 2 件のみ。他 11 件は×/△で未評価のまま）
+- distinction4: 約 230 件（5/4-5/8 登録分の未テスト多数）
+- distinction5: 約 45 件（S1+S2+S3 で 33 件出題、5/16 時点で初回 -→C 登録できたのは 9 件：#115, #117, #102, #121, #129, #130, #132 他）
 
 ## 4. 直近の学習サマリー
 
-| 日付       | セッション           | 出題  | ○    | △    | ×    | 正答率           |
-| ---------- | -------------------- | ----- | ---- | ---- | ---- | ---------------- |
-| 2026-05-15 | S1-S3                | 60    | 24   | 22   | 14   | 40%              |
-| 2026-05-14 | S1-S5（復習中心）    | 100   | 40   | 22   | 38   | 40%（S5は80%）   |
-| 2026-05-13 | 日記レビュー         | 8     | 4    | 4    | 0    | 50%              |
-| 2026-05-12 | S1-S3 + 日記         | 60+5  | 23+5 | 6+3  | 31+2 | 38%/50%          |
-| 2026-05-11 | S1-S2                | 40    | 5    | 14   | 21   | 13%              |
-| 2026-05-10 | S1-S2 + 日記         | 40+4  | 3+1  | 3+3  | 34+0 | 8%/25%           |
+| 日付       | セッション           | 出題  | ○    | △    | ×    | 正答率                  |
+| ---------- | -------------------- | ----- | ---- | ---- | ---- | ----------------------- |
+| 2026-05-16 | S1+S2+S3             | 60    | 16   | 13   | 31   | 27%（S1:45%/S2:10%/S3:25%）|
+| 2026-05-15 | S1-S3                | 60    | 24   | 22   | 14   | 40%                     |
+| 2026-05-14 | S1-S5（復習中心）    | 100   | 40   | 22   | 38   | 40%（S5は80%）          |
+| 2026-05-13 | 日記レビュー         | 8     | 4    | 4    | 0    | 50%                     |
+| 2026-05-12 | S1-S3 + 日記         | 60+5  | 23+5 | 6+3  | 31+2 | 38%/50%                 |
+| 2026-05-11 | S1-S2                | 40    | 5    | 14   | 21   | 13%                     |
+| 2026-05-10 | S1-S2 + 日記         | 40+4  | 3+1  | 3+3  | 34+0 | 8%/25%                  |
 
