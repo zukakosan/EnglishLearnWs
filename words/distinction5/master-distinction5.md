@@ -13,33 +13,33 @@
 
 | # | フレーズ | 意味 | Active | Passive | 最終更新 | 出題回数 | ×回数 | 備考 |
 |---|---------|------|--------|---------|---------|:-------:|:----:|------|
-| 1 | random | ランダム・脈絡のない・(口語)変な | C | C | 2026-05-12 | 1 | 0 | ≈ out of the blue / unexpected |
+| 1 | random | ランダム・脈絡のない・(口語)変な | B | B | 2026-05-19 | 2 | 0 | ≈ out of the blue / unexpected |
 | 2 | look back on sth | ～を振り返る | C | C | 2026-05-14 | 3 | 1 | ≈ reflect on / reminisce about |
-| 3 | crave sth | ～が無性に欲しい・食べたい | C | C | 2026-05-12 | 1 | 0 | ≈ long for / yearn for |
+| 3 | crave sth | ～が無性に欲しい・食べたい | B | B | 2026-05-19 | 2 | 0 | ≈ long for / yearn for |
 | 4 | my god | なんてことだ・うわー | - | - | 2026-05-14 | 2 | 1 | ≈ oh my / good heavens |
 | 5 | go about sth | ～に取り組む・着手する | - | - | 2026-05-19 | 3 | 2 | ≈ tackle / approach |
 | 6 | weirdo | 変な人・変人 | B | B | 2026-05-17 | 3 | 0 | ≈ oddball / freak |
 | 7 | nail sth | ～を見事にやってのける | - | - | 2026-05-19 | 3 | 3 | ≈ ace / pull off |
 | 8 | start sth off with sth/by doing sth | ～／～することで～を始める | - | - | 2026-05-13 | 1 | 0 | ≈ kick off with / open with |
 | 9 | track sth/sb down | ～を追跡して見つけ出す | - | - | 2026-05-14 | 2 | 0 | ≈ hunt down / locate |
-| 10 | acquired taste | 慣れが必要な好み・通好み | - | - | 2026-05-12 | 1 | 0 | ≈ taste you develop / not for everyone |
-| 11 | ahead of time | 前もって・予定より早く | - | - | 2026-05-12 | 1 | 0 | ≈ in advance / beforehand |
+| 10 | acquired taste | 慣れが必要な好み・通好み | - | - | 2026-05-19 | 2 | 0 | ≈ taste you develop / not for everyone |
+| 11 | ahead of time | 前もって・予定より早く | C | C | 2026-05-19 | 2 | 0 | ≈ in advance / beforehand |
 | 12 | what do you make of sth | ～についてどう思う | B | B | 2026-05-17 | 2 | 0 | ≈ what's your take on / how do you see |
 | 13 | hard deadline | 絶対の締切・延長不可の期限 | B | B | 2026-05-17 | 2 | 0 | ≈ firm deadline / non-negotiable due date |
 | 14 | back to back | 連続して・続けざまに | C | C | 2026-05-17 | 2 | 0 | ≈ one after another / consecutive |
 | 15 | blah blah blah | などなど・うんぬんかんぬん | - | - | 2026-05-19 | 3 | 2 | ≈ yada yada / and so on |
-| 16 | relatable to sb | 共感できる | - | - | 2026-05-12 | 1 | 0 | ≈ easy to identify with / understandable |
+| 16 | relatable to sb | 共感できる | - | - | 2026-05-19 | 2 | 0 | ≈ easy to identify with / understandable |
 | 17 | relate to sth/sb | ～に共感する・関連する | B | B | 2026-05-17 | 2 | 0 | ≈ identify with / connect with |
-| 18 | it depends | 場合による | C | C | 2026-05-12 | 1 | 0 | ≈ it varies / case by case |
+| 18 | it depends | 場合による | B | B | 2026-05-19 | 2 | 0 | ≈ it varies / case by case |
 | 19 | second nature | 第二の天性・自然にできる事 | B | B | 2026-05-17 | 2 | 0 | ≈ instinctive / automatic |
 | 20 | check in with sb | ～に連絡して様子を確かめる | - | - | 2026-05-19 | 3 | 2 | ≈ touch base with / catch up with |
 | 21 | come over | 家に立ち寄る・遊びに来る | B | B | 2026-05-17 | 3 | 0 | ≈ stop by / drop in |
 | 22 | choose/pick sides | どちらかの味方をする | - | - | 2026-05-14 | 2 | 0 | ≈ take sides / align with one party |
-| 23 | miss out | 機会を逃す | - | - | 2026-05-12 | 1 | 0 | ≈ lose out / miss the chance |
+| 23 | miss out | 機会を逃す | - | - | 2026-05-19 | 2 | 0 | ≈ lose out / miss the chance |
 | 24 | what is sb getting at | ～は何を言いたいのか | - | - | 2026-05-14 | 2 | 2 | ≈ what's sb's point / what does sb mean |
 | 25 | turn to sb | ～に頼る・相談する | - | - | 2026-05-14 | 2 | 0 | ≈ rely on / lean on |
 | 26 | no good | ダメ・役に立たない | - | - | 2026-05-14 | 2 | 2 | ≈ useless / won't do |
-| 27 | doable | 実行可能な・できる | - | - | 2026-05-12 | 1 | 0 | ≈ feasible / manageable |
+| 27 | doable | 実行可能な・できる | - | - | 2026-05-19 | 2 | 1 | ≈ feasible / manageable |
 | 28 | good at sth | ～が得意 | - | - | 2026-05-13 | 1 | 1 | ≈ skilled at / talented at |
 | 29 | on sb's end | ～側で・～の方では | C | C | 2026-05-12 | 1 | 0 | ≈ on sb's side / from sb's perspective |
 | 30 | fill sb in | ～に詳細を教える・経緯を伝える | - | - | 2026-05-19 | 3 | 3 | ≈ bring sb up to speed / catch sb up |
@@ -52,10 +52,10 @@
 | 37 | take ages | 非常に時間がかかる | - | - | 2026-05-14 | 2 | 2 | ≈ take forever / take a long time |
 | 38 | miss the point | 要点を外す・本質を理解しない | C | C | 2026-05-19 | 3 | 2 | ≈ not get it / misunderstand |
 | 39 | make it to sth | ～に間に合う・参加できる | - | - | 2026-05-14 | 2 | 1 | ≈ make / be able to attend |
-| 40 | no offense | 悪気はないけど・気を悪くしないで | C | C | 2026-05-12 | 1 | 0 | ≈ don't take it the wrong way / no disrespect |
+| 40 | no offense | 悪気はないけど・気を悪くしないで | B | B | 2026-05-19 | 2 | 0 | ≈ don't take it the wrong way / no disrespect |
 | 41 | savage | 容赦ない・辺辣な | - | - | 2026-05-14 | 2 | 2 | ≈ brutal / harsh |
 | 42 | psycho | おかしな人・サイコ | B | B | 2026-05-17 | 2 | 0 | ≈ nutcase / lunatic |
-| 43 | overrated | 過大評価された | C | C | 2026-05-12 | 1 | 0 | ≈ hyped up / overhyped |
+| 43 | overrated | 過大評価された | B | B | 2026-05-19 | 2 | 0 | ≈ hyped up / overhyped |
 | 44 | head off | 出かける・向かう | - | - | 2026-05-14 | 2 | 1 | ≈ set off / take off |
 | 45 | gang up on sb | ～を寄ってたかって攻撃する | C | C | 2026-05-19 | 3 | 1 | ≈ pile on sb / team up against sb |
 | 46 | watch what one says | 発言に気をつける | - | - | 2026-05-14 | 2 | 2 | ≈ mind one's words / be careful with words |
@@ -98,8 +98,8 @@
 | 83 | give sth a shot | ～を試しにやってみる | - | - | 2026-05-13 | 1 | 0 | ≈ give it a try / take a stab at |
 | 84 | know better than to do | ～しないだけの分別がある | B | B | 2026-05-17 | 3 | 1 | ≈ have more sense than to do / be wise enough not to |
 | 85 | by the sound of it | その口ぶりからすると | C | C | 2026-05-13 | 1 | 0 | ≈ from what I hear / it seems |
-| 86 | where it's at | 今一番イケてる・最高 | - | - | 2026-05-19 | 5 | 5 | ≈ the place to be / the hottest thing |
-| 87 | come down to sth | 結局～ということになる | C | C | 2026-05-18 | 3 | 0 | ≈ boil down to / be a matter of |
+| 86 | where it's at | 今一番イケてる・最高 | C | C | 2026-05-20 | 6 | 5 | ≈ the place to be / the hottest thing |
+| 87 | come down to sth | 結局～ということになる | B | C | 2026-05-19 | 3 | 0 | ≈ boil down to / be a matter of |
 | 88 | feel up to sth | ～する気分・体調である | C | C | 2026-05-19 | 2 | 0 | ≈ be in the mood for / be up for |
 | 89 | karma | 因果応報・カルマ | B | B | 2026-05-17 | 2 | 0 | ≈ what goes around comes around / poetic justice |
 | 90 | time sink | 時間の浪費・時間泥棒 | C | C | 2026-05-14 | 2 | 1 | ≈ time waster / black hole for time |
