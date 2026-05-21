@@ -17,10 +17,10 @@
 | 2 | look back on sth | ～を振り返る | C | C | 2026-05-14 | 3 | 1 | ≈ reflect on / reminisce about |
 | 3 | crave sth | ～が無性に欲しい・食べたい | B | B | 2026-05-19 | 2 | 0 | ≈ long for / yearn for |
 | 4 | my god | なんてことだ・うわー | - | - | 2026-05-14 | 2 | 1 | ≈ oh my / good heavens |
-| 5 | go about sth | ～に取り組む・着手する | - | - | 2026-05-19 | 3 | 2 | ≈ tackle / approach |
+| 5 | go about sth | ～に取り組む・着手する | - | - | 2026-05-21 | 4 | 3 | ≈ tackle / approach |
 | 6 | weirdo | 変な人・変人 | B | B | 2026-05-17 | 3 | 0 | ≈ oddball / freak |
-| 7 | nail sth | ～を見事にやってのける | - | - | 2026-05-19 | 3 | 3 | ≈ ace / pull off |
-| 8 | start sth off with sth/by doing sth | ～／～することで～を始める | - | - | 2026-05-13 | 1 | 0 | ≈ kick off with / open with |
+| 7 | nail sth | ～を見事にやってのける | C | C | 2026-05-21 | 4 | 3 | ≈ ace / pull off |
+| 8 | start sth off with sth/by doing sth | ～／～することで～を始める | - | - | 2026-05-21 | 2 | 0 | ≈ kick off with / open with |
 | 9 | track sth/sb down | ～を追跡して見つけ出す | - | - | 2026-05-14 | 2 | 0 | ≈ hunt down / locate |
 | 10 | acquired taste | 慣れが必要な好み・通好み | - | - | 2026-05-19 | 2 | 0 | ≈ taste you develop / not for everyone |
 | 11 | ahead of time | 前もって・予定より早く | C | C | 2026-05-19 | 2 | 0 | ≈ in advance / beforehand |
@@ -42,7 +42,7 @@
 | 27 | doable | 実行可能な・できる | - | - | 2026-05-19 | 2 | 1 | ≈ feasible / manageable |
 | 28 | good at sth | ～が得意 | - | - | 2026-05-13 | 1 | 1 | ≈ skilled at / talented at |
 | 29 | on sb's end | ～側で・～の方では | C | C | 2026-05-12 | 1 | 0 | ≈ on sb's side / from sb's perspective |
-| 30 | fill sb in | ～に詳細を教える・経緯を伝える | - | - | 2026-05-19 | 3 | 3 | ≈ bring sb up to speed / catch sb up |
+| 30 | fill sb in | ～に詳細を教える・経緯を伝える | C | C | 2026-05-21 | 4 | 3 | ≈ bring sb up to speed / catch sb up |
 | 31 | that's the reality | それが現実だ | C | C | 2026-05-13 | 1 | 0 | ≈ that's how it is / that's the truth |
 | 32 | standard | 普通の・標準的な | - | - | 2026-05-13 | 1 | 1 | ≈ typical / normal |
 | 33 | step out | ちょっと出る・席を外す | - | - | 2026-05-14 | 2 | 2 | ≈ pop out / leave briefly |
@@ -71,10 +71,10 @@
 | 56 | change the subject | 話題を変える | - | - | 2026-05-13 | 1 | 1 | ≈ shift the topic / move on |
 | 57 | never get old | 何度見ても飽きない・古びない | C | C | 2026-05-13 | 1 | 0 | ≈ stays fresh / never gets boring |
 | 58 | push back on sth | ～に反対する・抵抗する | - | - | 2026-05-14 | 2 | 1 | ≈ resist / object to |
-| 59 | dirty work | 嫌な仕事・汚れ仕事 | - | - | 未テスト | 0 | 0 | ≈ grunt work / unpleasant task |
+| 59 | dirty work | 嫌な仕事・汚れ仕事 | C | C | 2026-05-21 | 1 | 0 | ≈ grunt work / unpleasant task |
 | 60 | keep sb company | ～に付き合う・一緒にいる | - | - | 2026-05-13 | 1 | 1 | ≈ stay with sb / hang out with sb |
 | 61 | get on sb's nerves | ～の神経に障る・イライラさせる | C | C | 2026-05-12 | 1 | 0 | ≈ annoy sb / bug sb |
-| 62 | at some point | どこかの時点で・いつか | - | - | 2026-05-13 | 1 | 1 | ≈ eventually / sooner or later |
+| 62 | at some point | どこかの時点で・いつか | C | C | 2026-05-21 | 2 | 1 | ≈ eventually / sooner or later |
 | 63 | going forward | 今後は・これからは | - | - | 2026-05-13 | 1 | 0 | ≈ from now on / moving forward |
 | 64 | rock sth | ～を着こなす・カッコよく見せる | B | B | 2026-05-17 | 2 | 0 | ≈ pull off / wear with style |
 | 65 | lose one's voice | 声が出なくなる | - | - | 2026-05-13 | 1 | 0 | ≈ go hoarse / lose one's vocals |
