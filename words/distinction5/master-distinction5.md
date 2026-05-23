@@ -313,3 +313,103 @@
 | 298 | do one's homework | 下調べをする・予習する | - | - | 2026-05-22 | 0 | 0 | ≈ do one's research / be well-prepared |
 | 299 | top of the line | 最高級の・トップクラスの | - | - | 2026-05-22 | 0 | 0 | ≈ top-tier / premium |
 | 300 | aesthetic | 美的感覚・(モノの)雰囲気 | - | - | 2026-05-22 | 0 | 0 | ≈ vibe / visual style |
+| 301 | without further ado | 前置きはこのくらいで・さっそく | - | - | 未テスト | 0 | 0 | ≈ let's get started / straightaway |
+| 302 | sniff sth/sb out | ～を嗅ぎつける・突き止める | - | - | 未テスト | 0 | 0 | ≈ detect / track down |
+| 303 | catch wind of sth | ～のうわさを聞きつける | - | - | 未テスト | 0 | 0 | ≈ hear about / get word of |
+| 304 | sleep easy | 安心して眠る・心配しない | - | - | 未テスト | 0 | 0 | ≈ rest easy / sleep soundly |
+| 305 | come from a good place | 善意から出ている | - | - | 未テスト | 0 | 0 | ≈ be well-intentioned / mean well |
+| 306 | fan the flames | 火に油を注ぐ | - | - | 未テスト | 0 | 0 | ≈ inflame / make worse |
+| 307 | roll with the punches | 状況に合わせて柔軟に対処する | - | - | 未テスト | 0 | 0 | ≈ adapt / go with it |
+| 308 | not leave this room | ここだけの話にする | - | - | 未テスト | 0 | 0 | ≈ stay confidential / between us |
+| 309 | pull it together | 気を取り直す・落ち着く | - | - | 未テスト | 0 | 0 | ≈ get a grip / compose oneself |
+| 310 | sb's heart is in the right place | ～の気持ちは正しい・悪気はない | - | - | 未テスト | 0 | 0 | ≈ mean well / have good intentions |
+| 311 | take sb up on sb's offer | ～の申し出を受ける | - | - | 未テスト | 0 | 0 | ≈ accept an offer / say yes to |
+| 312 | play on sb's mind | ～の心に引っかかる・気になる | - | - | 未テスト | 0 | 0 | ≈ weigh on sb's mind / bother |
+| 313 | name-drop sb | ～の名前を出して自慢する | - | - | 未テスト | 0 | 0 | ≈ drop names / boast connections |
+| 314 | play the cards one is dealt | 与えられた条件でやりくりする | - | - | 未テスト | 0 | 0 | ≈ make do / work with what you have |
+| 315 | peace offering | 和解のしるし・手打ちの品 | - | - | 未テスト | 0 | 0 | ≈ olive branch / conciliatory gesture |
+| 316 | not want anything to do with sb | ～とは関わりたくない | - | - | 未テスト | 0 | 0 | ≈ want no part of / avoid |
+| 317 | scatterbrained | そそっかしい・うっかりした | - | - | 未テスト | 0 | 0 | ≈ absent-minded / forgetful |
+| 318 | come knocking on the door | （問題・機会が）押し寄せる | - | - | 未テスト | 0 | 0 | ≈ come calling / arrive soon |
+| 319 | pay lip service to sth | 口先だけで～を支持する | - | - | 未テスト | 0 | 0 | ≈ give token support / talk the talk |
+| 320 | off the grid | 人目につかない・連絡不能で | - | - | 未テスト | 0 | 0 | ≈ disconnected / out of reach |
+| 321 | see the error of one's ways | 自分の過ちに気づく | - | - | 未テスト | 0 | 0 | ≈ realize one's mistake / repent |
+| 322 | one-trick pony | 一発屋・芸が一つだけの人 | - | - | 未テスト | 0 | 0 | ≈ limited performer / one-note |
+| 323 | cut and dried | 既定路線の・明白な | - | - | 未テスト | 0 | 0 | ≈ settled / clear-cut |
+| 324 | the jury's still out | まだ結論が出ていない | - | - | 未テスト | 0 | 0 | ≈ undecided / still uncertain |
+| 325 | have sth lined up | ～を予定している・手配済み | - | - | 未テスト | 0 | 0 | ≈ have arranged / have planned |
+| 326 | look like death | 死にそうな顔をしている | - | - | 未テスト | 0 | 0 | ≈ look terrible / look exhausted |
+| 327 | driving force | 原動力・推進力 | - | - | 未テスト | 0 | 0 | ≈ key motivator / engine |
+| 328 | do well for oneself | 成功する・うまくやる | - | - | 未テスト | 0 | 0 | ≈ succeed / make a good life |
+| 329 | dance around the topic | 話題をはぐらかす | - | - | 未テスト | 0 | 0 | ≈ evade / beat around the bush |
+| 330 | on the off-chance | ひょっとしたらと思って | - | - | 未テスト | 0 | 0 | ≈ just in case / by any chance |
+| 331 | laundry list | 長い項目リスト・山ほどの一覧 | - | - | 未テスト | 0 | 0 | ≈ long list / checklist |
+| 332 | not bat an eye | まったく動じない | - | - | 未テスト | 0 | 0 | ≈ not flinch / stay unfazed |
+| 333 | Monopoly money | 独占力のない紙くず同然のお金 | - | - | 未テスト | 0 | 0 | ≈ play money / worthless cash |
+| 334 | stick | 定着する・しっかり残る | - | - | 未テスト | 0 | 0 | ≈ stay with / sink in |
+| 335 | work on the assumption that | ～という前提で進める | - | - | 未テスト | 0 | 0 | ≈ assume that / proceed assuming |
+| 336 | above sb's pay grade | ～の権限外で・手に負えない | - | - | 未テスト | 0 | 0 | ≈ beyond sb's authority / not sb's call |
+| 337 | working relationship | 仕事上の関係 | - | - | 未テスト | 0 | 0 | ≈ professional relationship / work rapport |
+| 338 | alone time | 一人の時間 | - | - | 未テスト | 0 | 0 | ≈ personal time / me time |
+| 339 | turn the other cheek | 仕返しせず受け流す | - | - | 未テスト | 0 | 0 | ≈ forgive / not retaliate |
+| 340 | gentleman's agreement | 紳士協定・非公式の合意 | - | - | 未テスト | 0 | 0 | ≈ informal agreement / handshake deal |
+| 341 | middle of the road | 穏健な・無難な | - | - | 未テスト | 0 | 0 | ≈ moderate / mainstream |
+| 342 | when the chips are down | いざという時に | - | - | 未テスト | 0 | 0 | ≈ in tough times / when it matters |
+| 343 | have a front row seat to sth | ～を間近で見る立場にある | - | - | 未テスト | 0 | 0 | ≈ witness firsthand / have the best view |
+| 344 | be having a moment | 一時的に注目されている | - | - | 未テスト | 0 | 0 | ≈ be trending / be in the spotlight |
+| 345 | water cooler conversation | 雑談ネタ・職場の世間話 | - | - | 未テスト | 0 | 0 | ≈ small talk / office chatter |
+| 346 | sweet talker | 口がうまい人 | - | - | 未テスト | 0 | 0 | ≈ smooth talker / charmer |
+| 347 | if the shoe fits, wear it | 図星なら認めなよ | - | - | 未テスト | 0 | 0 | ≈ if it applies, accept it |
+| 348 | acid test | 真価を問う決定的試験 | - | - | 未テスト | 0 | 0 | ≈ real test / crucial trial |
+| 349 | type-A | 完璧主義で競争的なタイプ | - | - | 未テスト | 0 | 0 | ≈ high-strung / driven personality |
+| 350 | grin and bear it | 文句を言わず耐える | - | - | 未テスト | 0 | 0 | ≈ endure it / put up with it |
+| 351 | not have to be War and Peace | そんなに長文でなくてよい | - | - | 未テスト | 0 | 0 | ≈ keep it short / doesn't need to be long |
+| 352 | have two left feet | ダンスが下手だ | - | - | 未テスト | 0 | 0 | ≈ be a bad dancer / clumsy on the dance floor |
+| 353 | two's company, three's a crowd | 2人なら良いが3人は多い | - | - | 未テスト | 0 | 0 | ≈ third wheel / better as two |
+| 354 | cards on the table | 腹を割って話す・手の内を見せる | - | - | 未テスト | 0 | 0 | ≈ be upfront / lay it all out |
+| 355 | have a lot of pull | 影響力が大きい | - | - | 未テスト | 0 | 0 | ≈ have influence / have clout |
+| 356 | the tail-end | 最後の部分・終盤 | - | - | 未テスト | 0 | 0 | ≈ end part / final stretch |
+| 357 | in hot water | 面倒な状況で・叱られる立場で | - | - | 未テスト | 0 | 0 | ≈ in trouble / in a mess |
+| 358 | my money's on sth | ～に賭ける・～が本命だと思う | - | - | 未テスト | 0 | 0 | ≈ I bet on / my pick is |
+| 359 | pay dividends | 効果を生む・実を結ぶ | - | - | 未テスト | 0 | 0 | ≈ pay off / bear fruit |
+| 360 | cling on | しがみつく・執着する | - | - | 未テスト | 0 | 0 | ≈ hold on tight / cling to |
+| 361 | lose a step | 衰える・キレが落ちる | - | - | 未テスト | 0 | 0 | ≈ slow down / decline |
+| 362 | too much to ask | 求めすぎ・高望み | - | - | 未テスト | 0 | 0 | ≈ unreasonable request / asking too much |
+| 363 | big break | 大きなチャンス | - | - | 未テスト | 0 | 0 | ≈ lucky break / major opportunity |
+| 364 | done and dusted | 完了した・片付いた | - | - | 未テスト | 0 | 0 | ≈ finished / all wrapped up |
+| 365 | rehash | 蒸し返す・焼き直す | - | - | 未テスト | 0 | 0 | ≈ rework / go over again |
+| 366 | at breaking point | 限界寸前で | - | - | 未テスト | 0 | 0 | ≈ at the limit / on the verge |
+| 367 | wrapped around sb's finger | ～を思い通りに操って | - | - | 未テスト | 0 | 0 | ≈ under sb's control / charmed into obedience |
+| 368 | put one's stamp on sth | ～に自分色を出す | - | - | 未テスト | 0 | 0 | ≈ leave one's mark / personalize |
+| 369 | conspiracy theory | 陰謀論 | - | - | 未テスト | 0 | 0 | ≈ plot theory / fringe claim |
+| 370 | a means to an end | 目的達成のための手段 | - | - | 未テスト | 0 | 0 | ≈ instrument / way to a goal |
+| 371 | million-dollar question | 最重要の問い・核心の質問 | - | - | 未テスト | 0 | 0 | ≈ key question / big question |
+| 372 | sell sb out | ～を裏切る・売る | - | - | 未テスト | 0 | 0 | ≈ betray / snitch on |
+| 373 | well thought out | よく練られた・熟考された | - | - | 未テスト | 0 | 0 | ≈ carefully planned / considered |
+| 374 | have a lot going for sth/sb | 長所が多い・有望である | - | - | 未テスト | 0 | 0 | ≈ have many strengths / be promising |
+| 375 | the silent treatment | 無視する態度・だんまり | - | - | 未テスト | 0 | 0 | ≈ deliberate silence / freezing out |
+| 376 | old habits die hard | 古い癖はなかなか直らない | - | - | 未テスト | 0 | 0 | ≈ habits are hard to break |
+| 377 | pay no mind to sth | ～を気にしない | - | - | 未テスト | 0 | 0 | ≈ ignore / don't worry about |
+| 378 | come down with something | 何かにかかる・体調を崩す | - | - | 未テスト | 0 | 0 | ≈ fall ill / catch something |
+| 379 | jokes aside | 冗談はさておき | - | - | 未テスト | 0 | 0 | ≈ seriously speaking / all jokes aside |
+| 380 | since/from day one | 最初からずっと | - | - | 未テスト | 0 | 0 | ≈ from the very beginning |
+| 381 | you can't please everyone | 全員を満足させるのは無理 | - | - | 未テスト | 0 | 0 | ≈ can't satisfy everybody |
+| 382 | hit the jackpot | 大当たりする・大成功する | - | - | 未テスト | 0 | 0 | ≈ strike it lucky / win big |
+| 383 | you are what you eat | 食べたもので体はできる | - | - | 未テスト | 0 | 0 | ≈ diet shapes health |
+| 384 | phone it in | 手を抜く・やっつけで済ます | - | - | 未テスト | 0 | 0 | ≈ do the bare minimum / coast |
+| 385 | dress sth up | ～を取り繕う・見栄え良くする | - | - | 未テスト | 0 | 0 | ≈ embellish / make it look better |
+| 386 | take it as it comes | なるようになるさで受け止める | - | - | 未テスト | 0 | 0 | ≈ take things as they come |
+| 387 | the clock is ticking | 時間が迫っている | - | - | 未テスト | 0 | 0 | ≈ time is running out |
+| 388 | talk sth through | ～をじっくり話し合う | - | - | 未テスト | 0 | 0 | ≈ discuss in detail / work through |
+| 389 | bragging rights | 自慢できる権利・ネタ | - | - | 未テスト | 0 | 0 | ≈ right to boast / boasting point |
+| 390 | golden opportunity | 絶好の機会 | - | - | 未テスト | 0 | 0 | ≈ great chance / perfect opportunity |
+| 391 | stepping stone | 足がかり・踏み台 | - | - | 未テスト | 0 | 0 | ≈ springboard / first step |
+| 392 | out of the picture | 関係なくなって・除外されて | - | - | 未テスト | 0 | 0 | ≈ no longer involved / excluded |
+| 393 | surprise, surprise | やっぱりね・案の定 | - | - | 未テスト | 0 | 0 | ≈ no surprise there / as expected |
+| 394 | walk all over sb | ～を踏みつけるように扱う | - | - | 未テスト | 0 | 0 | ≈ take advantage of / mistreat |
+| 395 | call sb's bluff | ～のはったりを見抜く | - | - | 未テスト | 0 | 0 | ≈ challenge / force sb to prove it |
+| 396 | have legs | （話・計画が）持続性がある | - | - | 未テスト | 0 | 0 | ≈ have longevity / gain traction |
+| 397 | in a vacuum | 文脈抜きで・孤立した状態で | - | - | 未テスト | 0 | 0 | ≈ in isolation / without context |
+| 398 | headroom | 余地・余裕 | - | - | 未テスト | 0 | 0 | ≈ margin / buffer |
+| 399 | in the pipeline | 進行中で・準備中で | - | - | 未テスト | 0 | 0 | ≈ underway / in progress |
+| 400 | flagship | 主力製品・看板の | - | - | 未テスト | 0 | 0 | ≈ leading / premier |
