@@ -103,7 +103,7 @@
 | 88 | for the first time in ages | 久しぶりに | A | A | 2026-05-19 | 1 | 0 | ≈ for the first time in a while / after such a long time |
 | 89 | night owl | 夜型人間 | A | A | 2026-05-14 | 5 | 1 | ≈ night person / late-night type |
 | 90 | good deal | お買い得 | B | B | 2026-05-15 | 5 | 1 | ≈ bargain / steal |
-| 91 | space out | ぼーっとする | A | B | 2026-05-14 | 2 | 0 | ≈ zone out / daydream |
+| 91 | space out | ぼーっとする | A | B | 2026-05-22 | 2 | 0 | ≈ zone out / daydream |
 | 92 | out of the blue | 突然 | A | A | 2026-05-01 | 3 | 0 | ≈ unexpectedly / all of a sudden |
 | 93 | keep sb updated | ～に最新情報を伝える | - | - | 2026-05-21 | 6 | 0 | ≈ keep sb in the loop / keep sb posted |
 | 94 | hang in there | 頑張って・持ちこたえて | B | C | 2026-05-04 | 2 | 1 | ≈ stay strong / keep going |
@@ -128,7 +128,7 @@
 | 113 | geared to sth/sb | ～向けの・～に合わせた | A | A | 2026-05-14 | 5 | 1 | ≈ tailored to / aimed at |
 | 114 | right-hand man | 右腕・頼れる片腕 | C | C | 2026-05-15 | 3 | 0 | ≈ go-to person / trusted ally |
 | 115 | like clockwork | 時計のように正確に | B | B | 2026-05-03 | 2 | 0 | ≈ right on schedule / without fail |
-| 116 | lost cause | 見込みのないこと | A | A | 2026-05-20 | 10 | 7 | ≈ hopeless case / waste of time |
+| 116 | lost cause | 見込みのないこと | A | A | 2026-05-23 | 12 | 7 | ≈ hopeless case / waste of time |
 | 117 | out of character | らしくない | A | A | 2026-05-03 | 2 | 0 | ≈ unlike sb / not typical of sb |
 | 118 | give sb a shout | ～に声をかける・連絡する | B | B | 2026-05-03 | 2 | 0 | ≈ hit sb up / drop sb a line |
 | 119 | here's the thing | 実はね・問題はね | B | B | 2026-05-05 | 2 | 0 | ≈ the thing is / here's the deal |
@@ -156,9 +156,9 @@
 | 141 | good sport | 潔い人・ノリのいい人 | C | - | 2026-05-03 | 2 | 2 | ≈ easygoing person / someone who takes it well |
 | 142 | well-spoken | 話し方が上品な | C | C | 2026-05-15 | 3 | 1 | ≈ articulate / eloquent |
 | 143 | breathe down sb's neck | ～を監視する・プレッシャーをかける | A | A | 2026-05-01 | 1 | 0 | ≈ micromanage sb / hover over sb |
-| 144 | jumpy | びくびくしている | C | - | 2026-05-21 | 4 | 3 | ≈ nervous / on edge |
+| 144 | jumpy | びくびくしている | B | C | 2026-05-22 | 5 | 3 | ≈ nervous / on edge |
 | 145 | get sth under one's belt | ～を経験済みにする | A | A | 2026-05-14 | 5 | 1 | ≈ gain experience in / notch up |
-| 146 | feed into sth | ～に影響する・助長する | B | B | 2026-05-20 | 8 | 5 | ≈ contribute to / fuel sth |
+| 146 | feed into sth | ～に影響する・助長する | A | A | 2026-05-23 | 10 | 5 | ≈ contribute to / fuel sth |
 | 147 | buzzkill | 盛り下げる人・こと | C | C | 2026-05-03 | 2 | 0 | ≈ killjoy / downer |
 | 148 | put one's mind to sth | 本気で取り組む | A | C | 2026-05-15 | 6 | 4 | ≈ set one's heart on / commit to |
 | 149 | fit the bill | 条件にぴったり合う | A | A | 2026-04-28 | 1 | 0 | ≈ meet the requirements / be just right |
@@ -175,7 +175,7 @@
 | 160 | binge sth | ～を一気見・一気読みする | A | A | 2026-05-01 | 1 | 0 | ≈ marathon sth / watch sth back to back |
 | 161 | pull sb's leg | ～をからかう | B | B | 2026-05-03 | 2 | 0 | ≈ tease sb / joke with sb |
 | 162 | behind the scenes | 舞台裏で | C | C | 2026-05-20 | 3 | 0 | ≈ backstage / under the surface |
-| 163 | live for sth/sb | ～が生きがい | A | A | 2026-05-20 | 6 | 3 | ≈ be passionate about / be crazy about |
+| 163 | live for sth/sb | ～が生きがい | A | A | 2026-05-23 | 8 | 3 | ≈ be passionate about / be crazy about |
 | 164 | real talk | マジな話 | B | C | 2026-05-03 | 2 | 1 | ≈ seriously though / honestly |
 | 165 | use it or lose it | 使わなければ失う | C | C | 2026-05-03 | 2 | 1 | ≈ practice or forget / if you don't use it, you'll lose it |
 | 166 | keeper | 手放せない人・もの | C | C | 2026-05-03 | 2 | 1 | ≈ a catch / worth holding onto |
@@ -188,7 +188,7 @@
 | 173 | cost-effective | 費用対効果が高い | C | C | 2026-05-03 | 2 | 0 | ≈ economical / budget-friendly |
 | 174 | jump on the bandwagon | 流行に乗る | A | A | 2026-04-30 | 1 | 0 | ≈ follow the trend / hop on the hype train |
 | 175 | practice makes perfect | 練習あるのみ | B | C | 2026-05-01 | 1 | 0 | ≈ repetition is key / the more you practice, the better |
-| 176 | run sth by sb | ～に確認してもらう | A | A | 2026-05-20 | 6 | 3 | ≈ check with sb / bounce sth off sb |
+| 176 | run sth by sb | ～に確認してもらう | A | A | 2026-05-23 | 8 | 3 | ≈ check with sb / bounce sth off sb |
 | 177 | it's a small world | 世間は狭い | B | B | 2026-05-01 | 2 | 0 | ≈ what a coincidence / fancy meeting you here |
 | 178 | take credit for sth | ～の手柄を取る | C | C | 2026-05-03 | 2 | 0 | ≈ claim recognition for / own the achievement |
 | 179 | switch it up | やり方を変える | C | - | 2026-05-03 | 2 | 2 | ≈ mix things up / change it up |
@@ -210,7 +210,7 @@
 | 195 | firsthand | 直接・自分自身で | A | B | 2026-05-01 | 1 | 0 | ≈ personally / from direct experience |
 | 196 | learn sth the hard way | 痛い目にあって学ぶ | C | - | 2026-05-03 | 2 | 1 | ≈ learn from mistakes / find out the painful way |
 | 197 | stay in one's lane | 自分の領域に留まる | C | - | 2026-05-03 | 2 | 2 | ≈ mind one's own business / stick to what you know |
-| 198 | can't put one's finger on sth | はっきり言えないけど何か… | A | B | 2026-05-20 | 6 | 0 | ≈ can't quite figure out / can't pinpoint |
+| 198 | can't put one's finger on sth | はっきり言えないけど何か… | A | A | 2026-05-23 | 8 | 0 | ≈ can't quite figure out / can't pinpoint |
 | 199 | ditto | 同じく・同感 | - | - | 2026-05-21 | 4 | 2 | ≈ same here / likewise |
 | 200 | be stuck in a rut | マンネリに陥っている | C | C | 2026-05-14 | 5 | 1 | ≈ be in a groove / be going nowhere |
 | 201 | move the goalposts | 条件を途中で変える | C | C | 2026-05-03 | 2 | 1 | ≈ change the rules / shift the criteria |
@@ -248,7 +248,7 @@
 | 233 | get on sb's bad side | ～の機嫌を損ねる | B | B | 2026-05-14 | 4 | 2 | ≈ rub sb the wrong way / get on sb's nerves |
 | 234 | brush sth/sb off | ～を軽くあしらう・無視する | C | C | 2026-05-21 | 4 | 3 | ≈ dismiss / shrug off |
 | 235 | in the works | 進行中・準備中 | - | - | 2026-05-21 | 3 | 2 | ≈ in progress / in the pipeline |
-| 236 | in the groove | 調子が良い・乗っている | - | - | 2026-05-21 | 3 | 3 | ≈ in the zone / on a roll |
+| 236 | in the groove | 調子が良い・乗っている | C | C | 2026-05-22 | 4 | 3 | ≈ in the zone / on a roll |
 | 237 | have a bird's-eye view of sth | ～を俯瞰する | B | B | 2026-05-15 | 6 | 0 | ≈ see the big picture / get an overview of |
 | 238 | in a good position | 有利な立場にある | - | - | 2026-05-11 | 2 | 2 | ≈ well-placed / in a strong spot |
 | 239 | put in a good word for sb | ～のことを良く言う・推薦する | - | - | 2026-05-21 | 3 | 2 | ≈ recommend sb / vouch for sb |
@@ -290,7 +290,7 @@
 | 275 | in the blink of an eye | あっという間に | B | B | 2026-05-04 | 3 | 0 | ≈ in a flash / in an instant |
 | 276 | hit one's stride | 調子が出てくる・本領を発揮する | C | C | 2026-05-21 | 3 | 1 | ≈ find one's rhythm / get into the flow |
 | 277 | on the flip side | 一方で・裏を返せば | C | C | 2026-05-03 | 2 | 0 | ≈ on the other hand / conversely |
-| 278 | it's the thought that counts | 気持ちが大事 | - | - | 2026-05-14 | 4 | 2 | ≈ the intention matters / it's the gesture that counts |
+| 278 | it's the thought that counts | 気持ちが大事 | - | - | 2026-05-22 | 5 | 3 | ≈ the intention matters / it's the gesture that counts |
 | 279 | rule sth out | ～を除外する・可能性を排除する | B | B | 2026-05-04 | 2 | 0 | ≈ eliminate / exclude |
 | 280 | late bloomer | 遅咲きの人 | B | B | 2026-05-03 | 2 | 0 | ≈ slow starter / someone who develops later |
 | 281 | straight off the bat | 最初から・即座に | C | - | 2026-05-03 | 2 | 2 | ≈ right away / from the get-go |
@@ -306,7 +306,7 @@
 | 291 | feeling blah | なんとなくだるい・パッとしない | - | - | 2026-05-11 | 2 | 1 | ≈ feeling meh / feeling off |
 | 292 | been there done that | 経験済み・もうやった | C | C | 2026-05-21 | 7 | 4 | ≈ nothing new / already experienced it |
 | 293 | pass the time | 時間をつぶす | - | - | 2026-05-21 | 2 | 0 | ≈ kill time / while away the hours |
-| 294 | what's done is done | 済んだことは仕方ない | - | - | 2026-05-05 | 2 | 1 | ≈ no use crying over spilled milk / it's in the past |
+| 294 | what's done is done | 済んだことは仕方ない | - | - | 2026-05-22 | 3 | 1 | ≈ no use crying over spilled milk / it's in the past |
 | 295 | go through a rough patch | つらい時期を過ごす | C | - | 2026-05-03 | 2 | 1 | ≈ hit a rough spot / have a tough time |
 | 296 | quit sth cold turkey | ～をきっぱりやめる | C | - | 2026-05-03 | 2 | 2 | ≈ stop abruptly / give up overnight |
 | 297 | bring one's A-game | 全力を出す・本気で挑む | C | - | 2026-05-03 | 2 | 2 | ≈ give one's best / step up |
@@ -316,41 +316,41 @@
 | 301 | wiggle room | 余裕・交渉の余地 | B | B | 2026-05-03 | 2 | 0 | ≈ leeway / room for maneuver |
 | 302 | have a mind of its own | 勝手に動く・言うことを聞かない | C | - | 2026-05-08 | 4 | 1 | ≈ act independently / be unpredictable |
 | 303 | poster boy/girl | 代表的存在・象徴 | B | B | 2026-05-03 | 2 | 0 | ≈ symbol / face of sth |
-| 304 | walk sb through sth | ～を丁寧に説明する | - | - | 2026-05-21 | 4 | 3 | ≈ guide sb through / explain step by step |
-| 305 | sweep sth under the carpet | ～を隠す・もみ消す | B | B | 2026-05-20 | 5 | 1 | ≈ cover up / brush under the rug |
+| 304 | walk sb through sth | ～を丁寧に説明する | C | C | 2026-05-22 | 5 | 3 | ≈ guide sb through / explain step by step |
+| 305 | sweep sth under the carpet | ～を隠す・もみ消す | A | A | 2026-05-23 | 7 | 1 | ≈ cover up / brush under the rug |
 | 306 | there's more to sth/sb than meets the eye | 見た目以上のものがある | - | - | 2026-05-21 | 4 | 2 | ≈ not as simple as it looks / deeper than it appears |
 | 307 | bang one's head against the wall | 無駄な努力をする | A | C | 2026-05-05 | 3 | 1 | ≈ hit a brick wall / fight a losing battle |
 | 308 | rip off the band-aid | 思い切ってやる・痛みを一気に済ませる | B | B | 2026-05-03 | 3 | 0 | ≈ just do it / get it over with |
 | 309 | mixed messages | 矛盾したメッセージ | C | C | 2026-05-15 | 5 | 1 | ≈ conflicting signals / mixed signals |
-| 310 | weigh in | 意見を述べる・口を出す | A | A | 2026-05-20 | 6 | 0 | ≈ chime in / give one's input |
+| 310 | weigh in | 意見を述べる・口を出す | A | A | 2026-05-23 | 8 | 0 | ≈ chime in / give one's input |
 | 311 | know sth like the back of one's hand | ～を熟知している | C | C | 2026-05-21 | 4 | 2 | ≈ know inside out / be very familiar with |
-| 312 | different kettle of fish | 全く別の話・別問題 | B | B | 2026-05-20 | 7 | 5 | ≈ a different matter / another story |
-| 313 | rein sth/sb in | ～を抑制する・制御する | B | C | 2026-05-21 | 8 | 6 | ≈ hold back / keep in check |
+| 312 | different kettle of fish | 全く別の話・別問題 | A | A | 2026-05-23 | 9 | 5 | ≈ a different matter / another story |
+| 313 | rein sth/sb in | ～を抑制する・制御する | A | B | 2026-05-23 | 9 | 6 | ≈ hold back / keep in check |
 | 314 | hard and fast rule | 厳格なルール・絶対的な規則 | C | C | 2026-05-03 | 2 | 0 | ≈ strict rule / firm rule |
 | 315 | plow ahead with sth | ～を強引に進める | - | - | 2026-05-11 | 2 | 1 | ≈ push forward / press on |
 | 316 | you win some, you lose some | 勝つこともあれば負けることもある | - | - | 2026-05-21 | 4 | 1 | ≈ that's life / can't win them all |
 | 317 | reach boiling point | 限界に達する・沸点に達する | C | C | 2026-05-03 | 2 | 0 | ≈ reach breaking point / hit the limit |
 | 318 | there's a method to sb's madness | 一見無茶でも理にかなっている | C | C | 2026-05-15 | 5 | 4 | ≈ there's a reason behind it / it makes sense |
-| 319 | get back into the swing of things | 調子を取り戻す | C | - | 2026-05-21 | 7 | 6 | ≈ get back on track / find one's rhythm again |
+| 319 | get back into the swing of things | 調子を取り戻す | A | B | 2026-05-23 | 9 | 6 | ≈ get back on track / find one's rhythm again |
 | 320 | micro-manage sth/sb | ～を細かく管理する | C | C | 2026-05-03 | 2 | 0 | ≈ over-supervise / control every detail |
 | 321 | wouldn't miss sth for the world | 何があっても見逃さない | C | C | 2026-05-14 | 4 | 2 | ≈ wouldn't miss it for anything / absolutely be there |
 | 322 | balancing act | バランスを取ること・綻渡り | B | B | 2026-05-03 | 2 | 0 | ≈ juggling act / tightrope walk |
 | 323 | bring out the best in sb | ～の最良の面を引き出す | C | C | 2026-05-20 | 4 | 2 | ≈ draw out sb's potential / inspire the best |
 | 324 | hog the spotlight | 注目を独占する | C | C | 2026-05-03 | 2 | 1 | ≈ steal the show / dominate attention |
-| 325 | how long is a piece of string | 答えようがない・ケースバイケース | - | - | 2026-05-21 | 7 | 6 | ≈ impossible to say / it depends |
+| 325 | how long is a piece of string | 答えようがない・ケースバイケース | - | - | 2026-05-23 | 9 | 6 | ≈ impossible to say / it depends |
 | 326 | do a one-eighty | 180度方向転換する | C | C | 2026-05-03 | 2 | 0 | ≈ completely change direction / make a U-turn |
-| 327 | save sb's bacon | ～を窮地から救う | B | B | 2026-05-21 | 7 | 5 | ≈ save sb's skin / bail sb out |
+| 327 | save sb's bacon | ～を窮地から救う | A | A | 2026-05-23 | 8 | 5 | ≈ save sb's skin / bail sb out |
 | 328 | there are plenty of fish in the sea | 他にもいい人はたくさんいる | - | - | 2026-05-21 | 4 | 1 | ≈ there are other options / don't worry about it |
 | 329 | get out of sb's hair | ～の邪魔をしない | C | - | 2026-05-03 | 2 | 1 | ≈ leave sb alone / stop bothering sb |
 | 330 | underline the importance of sth | ～の重要性を強調する | C | C | 2026-05-04 | 2 | 0 | ≈ emphasize / highlight the significance of |
 | 331 | two heads are better than one | 三人寄れば文殊の知恵 | C | C | 2026-05-06 | 3 | 2 | ≈ teamwork is better / collaboration helps |
 | 332 | have a few screws loose | ちょっとおかしい・ネジが外れてる | C | C | 2026-05-03 | 2 | 1 | ≈ be a bit crazy / not be all there |
-| 333 | put sb's mind at ease | ～を安心させる | - | - | 2026-05-03 | 2 | 0 | ≈ reassure sb / set sb's mind at rest |
-| 334 | the lesser of two evils | 二つの悪のうちましなほう | - | - | 2026-05-03 | 2 | 0 | ≈ the better of two bad options / pick the less bad one |
-| 335 | dish it out | （批判などを）浴びせる | B | B | 2026-05-20 | 7 | 5 | ≈ give criticism / hand it out |
+| 333 | put sb's mind at ease | ～を安心させる | - | - | 2026-05-22 | 3 | 1 | ≈ reassure sb / set sb's mind at rest |
+| 334 | the lesser of two evils | 二つの悪のうちましなほう | C | C | 2026-05-22 | 3 | 0 | ≈ the better of two bad options / pick the less bad one |
+| 335 | dish it out | （批判などを）浴びせる | A | A | 2026-05-23 | 9 | 5 | ≈ give criticism / hand it out |
 | 336 | go the extra mile | 期待以上に頑張る | C | C | 2026-05-02 | 2 | 1 | ≈ go above and beyond / make an extra effort |
 | 337 | cash cow | ドル箱・金のなる木 | B | B | 2026-05-03 | 2 | 0 | ≈ money maker / gold mine |
-| 338 | get one's foot in the door | 足がかりを得る | A | B | 2026-05-20 | 6 | 3 | ≈ get a start / make initial entry |
+| 338 | get one's foot in the door | 足がかりを得る | A | A | 2026-05-23 | 8 | 3 | ≈ get a start / make initial entry |
 | 339 | curiosity killed the cat | 好奇心は身を滅ぼす | C | C | 2026-05-20 | 4 | 0 | ≈ don't be too nosy / some things are better left unknown |
 | 340 | a drop in the ocean | 焼け石に水・大海の一滴 | B | B | 2026-05-03 | 2 | 0 | ≈ a tiny amount / barely makes a difference |
 | 341 | go hand in hand | 密接に関連する | C | C | 2026-05-20 | 7 | 4 | ≈ be closely connected / go together |
@@ -359,21 +359,21 @@
 | 344 | shock to the system | 大きな衝撃・カルチャーショック | C | - | 2026-05-03 | 2 | 1 | ≈ rude awakening / big adjustment |
 | 345 | beggars can't be choosers | 贅沢は言えない | C | C | 2026-05-21 | 5 | 2 | ≈ take what you can get / no room to be picky |
 | 346 | an eye for an eye | 目には目を | B | B | 2026-05-14 | 4 | 2 | ≈ tit for tat / retaliation |
-| 347 | have one's cake and eat it too | 両方手に入れる・いいとこ取りする | B | B | 2026-05-21 | 7 | 5 | ≈ have it both ways / want everything |
+| 347 | have one's cake and eat it too | 両方手に入れる・いいとこ取りする | A | A | 2026-05-23 | 8 | 5 | ≈ have it both ways / want everything |
 | 348 | ripped | 筋肉質の・ムキムキの | C | C | 2026-05-06 | 3 | 2 | ≈ buff / shredded |
 | 349 | ray of sunshine | 明るい存在・希望の光 | C | C | 2026-05-06 | 3 | 2 | ≈ bright spot / source of happiness |
 | 350 | step it up | もっと頑張る・レベルを上げる | A | C | 2026-05-14 | 3 | 2 | ≈ raise the bar / up one's game |
 | 351 | running on empty | 限界ギリギリ・エネルギー切れ | C | - | 2026-05-03 | 2 | 1 | ≈ exhausted / burnt out |
 | 352 | change tack | 方針を変える | C | C | 2026-05-20 | 4 | 1 | ≈ change approach / switch strategy |
-| 353 | get away with murder | 何をしても許される | - | - | 2026-05-21 | 4 | 4 | ≈ get away with anything / face no consequences |
+| 353 | get away with murder | 何をしても許される | C | C | 2026-05-22 | 5 | 4 | ≈ get away with anything / face no consequences |
 | 354 | trump card | 切り札 | C | C | 2026-05-03 | 2 | 0 | ≈ ace up one's sleeve / secret weapon |
 | 355 | know one's own mind | 自分の考えをはっきり持っている | C | C | 2026-05-20 | 6 | 2 | ≈ be decisive / be clear about what one wants |
 | 356 | on the ropes | 追い詰められている | - | - | 2026-05-11 | 2 | 1 | ≈ in trouble / on the verge of defeat |
 | 357 | catch more flies with honey | 柔らかく接するほうが効果的 | C | - | 2026-05-03 | 2 | 2 | ≈ kindness works better / be nice to get results |
-| 358 | downplay sth | ～を控えめに言う・軽視する | A | B | 2026-05-20 | 6 | 3 | ≈ play down / minimize |
+| 358 | downplay sth | ～を控えめに言う・軽視する | A | A | 2026-05-23 | 8 | 3 | ≈ play down / minimize |
 | 359 | slap in the face | 侮辱・面目をつぶすこと | B | B | 2026-05-14 | 8 | 5 | ≈ insult / affront |
 | 360 | come with the territory | ～につきもの | C | - | 2026-05-03 | 2 | 2 | ≈ be part of the deal / be expected |
-| 361 | care factor zero | 全く興味なし | B | B | 2026-05-21 | 7 | 5 | ≈ couldn't care less / zero interest |
+| 361 | care factor zero | 全く興味なし | A | A | 2026-05-23 | 8 | 5 | ≈ couldn't care less / zero interest |
 | 362 | take a beating | ひどい目に遭う・大打撃を受ける | B | C | 2026-05-15 | 5 | 4 | ≈ get hammered / suffer badly |
 | 363 | mull over sth | ～をじっくり考える | C | - | 2026-05-03 | 3 | 1 | ≈ think over / ponder |
 | 364 | the apple doesn't fall far from the tree | 蛙の子は蛙 | C | - | 2026-05-03 | 2 | 1 | ≈ like parent, like child / runs in the family |
@@ -385,9 +385,9 @@
 | 370 | keep pace with sth/sb | ～に遅れずについていく | - | - | 2026-05-21 | 2 | 2 | ≈ keep up with / stay on par with |
 | 371 | laughing stock | 笑い者 | A | A | 2026-05-14 | 10 | 4 | ≈ object of ridicule / joke |
 | 372 | take a leap of faith | 信じて飛び込む | C | - | 2026-05-03 | 3 | 2 | ≈ trust and jump / go for it blindly |
-| 373 | mishmash | ごちゃ混ぜ | - | - | 2026-05-02 | 2 | 1 | ≈ hodgepodge / jumble |
+| 373 | mishmash | ごちゃ混ぜ | C | C | 2026-05-22 | 3 | 1 | ≈ hodgepodge / jumble |
 | 374 | put one's own spin on sth | ～に独自の解釈を加える | - | - | 2026-05-20 | 6 | 3 | ≈ add one's twist / personalize |
-| 375 | spell sth out | ～をはっきり説明する | - | - | 2026-05-06 | 2 | 1 | ≈ make clear / lay it out |
+| 375 | spell sth out | ～をはっきり説明する | - | - | 2026-05-22 | 3 | 2 | ≈ make clear / lay it out |
 | 376 | the wheels come off | 崩壊する・うまくいかなくなる | C | - | 2026-05-03 | 2 | 1 | ≈ fall apart / go wrong |
 | 377 | get all one's ducks in a row | 準備を整える | C | - | 2026-05-03 | 2 | 2 | ≈ get organized / have everything in order |
 | 378 | give sb a piece of one's mind | ～に文句を言う | - | - | 2026-05-20 | 3 | 2 | ≈ tell sb off / give sb an earful |
@@ -404,12 +404,12 @@
 | 389 | running on fumes | ギリギリの状態で動いている | - | - | 2026-05-21 | 3 | 0 | ≈ barely hanging on / almost out of energy |
 | 390 | hidden gem | 隠れた名品・穴場 | C | C | 2026-05-03 | 2 | 0 | ≈ undiscovered treasure / best-kept secret |
 | 391 | off the cuff | 即興で・ぶっつけ本番で | C | - | 2026-05-03 | 2 | 1 | ≈ impromptu / on the spot |
-| 392 | put sth/sb on the map | ～を有名にする | - | - | 2026-05-21 | 3 | 3 | ≈ make famous / bring to attention |
+| 392 | put sth/sb on the map | ～を有名にする | - | - | 2026-05-22 | 4 | 4 | ≈ make famous / bring to attention |
 | 393 | learn to walk before one can run | 基本から始めよ | C | - | 2026-05-03 | 2 | 2 | ≈ start with the basics / take it step by step |
-| 394 | pie in the sky | 絵に描いた餅 | - | - | 2026-05-11 | 2 | 1 | ≈ wishful thinking / unrealistic dream |
+| 394 | pie in the sky | 絵に描いた餅 | - | - | 2026-05-22 | 3 | 2 | ≈ wishful thinking / unrealistic dream |
 | 395 | have time on one's hands | 暇を持て余している | C | - | 2026-05-03 | 2 | 2 | ≈ have free time / have nothing to do |
-| 396 | put sth on the back burner | ～を後回しにする | - | - | 2026-05-11 | 3 | 2 | ≈ shelve / put on hold |
-| 397 | when pigs fly | ありえない・絶対にない | - | - | 2026-05-21 | 3 | 3 | ≈ never / not in a million years |
-| 398 | add fuel to the fire | 火に油を注ぐ | - | - | 2026-05-03 | 2 | 0 | ≈ make things worse / escalate |
+| 396 | put sth on the back burner | ～を後回しにする | - | - | 2026-05-22 | 4 | 2 | ≈ shelve / put on hold |
+| 397 | when pigs fly | ありえない・絶対にない | - | - | 2026-05-22 | 4 | 4 | ≈ never / not in a million years |
+| 398 | add fuel to the fire | 火に油を注ぐ | - | - | 2026-05-22 | 3 | 1 | ≈ make things worse / escalate |
 | 399 | cry over spilt milk | 覆水盆に返らず | C | - | 2026-05-14 | 4 | 2 | ≈ dwell on the past / regret what's done |
 | 400 | make a distinction between A and B | AとBを区別する | C | C | 2026-05-01 | 1 | 0 | ≈ differentiate / tell apart |
